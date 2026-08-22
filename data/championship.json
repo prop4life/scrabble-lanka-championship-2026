@@ -15,6 +15,17 @@
           "opponentName": "Ruchitha Thamal Lelwala Gurugamage",
           "opponentScore": 412,
           "spread": 14
+        },
+        {
+          "round": 2,
+          "playerId": "1",
+          "name": "Adheesha Dissanayake",
+          "result": "W",
+          "score": 433,
+          "opponentId": "8",
+          "opponentName": "Tharin Nethmira Kariyawasam",
+          "opponentScore": 405,
+          "spread": 28
         }
       ]
     },
@@ -32,6 +43,17 @@
           "opponentName": "Gihansa Withana Pathirana",
           "opponentScore": 446,
           "spread": 74
+        },
+        {
+          "round": 2,
+          "playerId": "2",
+          "name": "Inam Irshad",
+          "result": "W",
+          "score": 415,
+          "opponentId": "10",
+          "opponentName": "Ravindu Fernando",
+          "opponentScore": 354,
+          "spread": 61
         }
       ]
     },
@@ -49,6 +71,17 @@
           "opponentName": "Tariq M. Rusan",
           "opponentScore": 428,
           "spread": 89
+        },
+        {
+          "round": 2,
+          "playerId": "3",
+          "name": "Udhev Prasath",
+          "result": "L",
+          "score": 438,
+          "opponentId": "12",
+          "opponentName": "Mohamed Imad Irshad",
+          "opponentScore": 449,
+          "spread": -11
         }
       ]
     },
@@ -66,6 +99,17 @@
           "opponentName": "Sithuki Thevinka Abeysinghe",
           "opponentScore": 415,
           "spread": 36
+        },
+        {
+          "round": 2,
+          "playerId": "5",
+          "name": "Thulnith De Silva",
+          "result": "W",
+          "score": 380,
+          "opponentId": "9",
+          "opponentName": "Kaumadee Balasinghe",
+          "opponentScore": 364,
+          "spread": 16
         }
       ]
     },
@@ -83,6 +127,17 @@
           "opponentName": "Vihanga Premaratne",
           "opponentScore": 434,
           "spread": -93
+        },
+        {
+          "round": 2,
+          "playerId": "6",
+          "name": "Kevan Croos",
+          "result": "W",
+          "score": 599,
+          "opponentId": "30",
+          "opponentName": "Harindu Thenujaya",
+          "opponentScore": 249,
+          "spread": 350
         }
       ]
     },
@@ -100,6 +155,17 @@
           "opponentName": "Tenuka Kalansooriya",
           "opponentScore": 374,
           "spread": 92
+        },
+        {
+          "round": 2,
+          "playerId": "7",
+          "name": "Sachiv Prasath",
+          "result": "L",
+          "score": 425,
+          "opponentId": "14",
+          "opponentName": "Sasmitha Aayush Nesadith Haputhanthiri",
+          "opponentScore": 468,
+          "spread": -43
         }
       ]
     },
@@ -117,6 +183,17 @@
           "opponentName": "Mohamed Rilwan Hiba",
           "opponentScore": 331,
           "spread": 150
+        },
+        {
+          "round": 2,
+          "playerId": "8",
+          "name": "Tharin Nethmira Kariyawasam",
+          "result": "L",
+          "score": 405,
+          "opponentId": "1",
+          "opponentName": "Adheesha Dissanayake",
+          "opponentScore": 433,
+          "spread": -28
         }
       ]
     },
@@ -134,6 +211,17 @@
           "opponentName": "Kavinaya Nagules",
           "opponentScore": 318,
           "spread": 208
+        },
+        {
+          "round": 2,
+          "playerId": "9",
+          "name": "Kaumadee Balasinghe",
+          "result": "L",
+          "score": 364,
+          "opponentId": "5",
+          "opponentName": "Thulnith De Silva",
+          "opponentScore": 380,
+          "spread": -16
         }
       ]
     },
@@ -151,6 +239,17 @@
           "opponentName": "Ruqaiyah Rumi Reyal",
           "opponentScore": 325,
           "spread": 121
+        },
+        {
+          "round": 2,
+          "playerId": "10",
+          "name": "Ravindu Fernando",
+          "result": "L",
+          "score": 354,
+          "opponentId": "2",
+          "opponentName": "Inam Irshad",
+          "opponentScore": 415,
+          "spread": -61
         }
       ]
     },
@@ -168,6 +267,17 @@
           "opponentName": "Dulithi Vinujana Maranthota",
           "opponentScore": 360,
           "spread": 119
+        },
+        {
+          "round": 2,
+          "playerId": "11",
+          "name": "Kyaan Perera",
+          "result": "L",
+          "score": 326,
+          "opponentId": "13",
+          "opponentName": "Vidu Wijesundara",
+          "opponentScore": 449,
+          "spread": -123
         }
       ]
     },
@@ -185,6 +295,17 @@
           "opponentName": "Herath Mudiyanselage Sandakalee Damsara Herath",
           "opponentScore": 229,
           "spread": 262
+        },
+        {
+          "round": 2,
+          "playerId": "12",
+          "name": "Mohamed Imad Irshad",
+          "result": "W",
+          "score": 449,
+          "opponentId": "3",
+          "opponentName": "Udhev Prasath",
+          "opponentScore": 438,
+          "spread": 11
         }
       ]
     },
@@ -202,6 +323,17 @@
           "opponentName": "Izmah Ismail",
           "opponentScore": 265,
           "spread": 274
+        },
+        {
+          "round": 2,
+          "playerId": "13",
+          "name": "Vidu Wijesundara",
+          "result": "W",
+          "score": 449,
+          "opponentId": "11",
+          "opponentName": "Kyaan Perera",
+          "opponentScore": 326,
+          "spread": 123
         }
       ]
     },
@@ -219,6 +351,17 @@
           "opponentName": "Imandhi Kodippiliarachchi",
           "opponentScore": 268,
           "spread": 217
+        },
+        {
+          "round": 2,
+          "playerId": "14",
+          "name": "Sasmitha Aayush Nesadith Haputhanthiri",
+          "result": "W",
+          "score": 468,
+          "opponentId": "7",
+          "opponentName": "Sachiv Prasath",
+          "opponentScore": 425,
+          "spread": 43
         }
       ]
     },
@@ -236,6 +379,17 @@
           "opponentName": "Harindu Thenujaya",
           "opponentScore": 230,
           "spread": 291
+        },
+        {
+          "round": 2,
+          "playerId": "15",
+          "name": "Tharindu Fernando",
+          "result": "W",
+          "score": 447,
+          "opponentId": "20",
+          "opponentName": "Vihanga Premaratne",
+          "opponentScore": 327,
+          "spread": 120
         }
       ]
     },
@@ -253,6 +407,17 @@
           "opponentName": "Adheesha Dissanayake",
           "opponentScore": 426,
           "spread": -14
+        },
+        {
+          "round": 2,
+          "playerId": "16",
+          "name": "Ruchitha Thamal Lelwala Gurugamage",
+          "result": "W",
+          "score": 470,
+          "opponentId": "24",
+          "opponentName": "Ruqaiyah Rumi Reyal",
+          "opponentScore": 341,
+          "spread": 129
         }
       ]
     },
@@ -270,6 +435,17 @@
           "opponentName": "Inam Irshad",
           "opponentScore": 520,
           "spread": -74
+        },
+        {
+          "round": 2,
+          "playerId": "17",
+          "name": "Gihansa Withana Pathirana",
+          "result": "W",
+          "score": 504,
+          "opponentId": "26",
+          "opponentName": "Herath Mudiyanselage Sandakalee Damsara Herath",
+          "opponentScore": 277,
+          "spread": 227
         }
       ]
     },
@@ -287,6 +463,17 @@
           "opponentName": "Udhev Prasath",
           "opponentScore": 517,
           "spread": -89
+        },
+        {
+          "round": 2,
+          "playerId": "18",
+          "name": "Tariq M. Rusan",
+          "result": "W",
+          "score": 398,
+          "opponentId": "27",
+          "opponentName": "Izmah Ismail",
+          "opponentScore": 367,
+          "spread": 31
         }
       ]
     },
@@ -304,6 +491,17 @@
           "opponentName": "Thulnith De Silva",
           "opponentScore": 451,
           "spread": -36
+        },
+        {
+          "round": 2,
+          "playerId": "19",
+          "name": "Sithuki Thevinka Abeysinghe",
+          "result": "W",
+          "score": 517,
+          "opponentId": "22",
+          "opponentName": "Mohamed Rilwan Hiba",
+          "opponentScore": 301,
+          "spread": 216
         }
       ]
     },
@@ -321,6 +519,17 @@
           "opponentName": "Kevan Croos",
           "opponentScore": 341,
           "spread": 93
+        },
+        {
+          "round": 2,
+          "playerId": "20",
+          "name": "Vihanga Premaratne",
+          "result": "L",
+          "score": 327,
+          "opponentId": "15",
+          "opponentName": "Tharindu Fernando",
+          "opponentScore": 447,
+          "spread": -120
         }
       ]
     },
@@ -338,6 +547,17 @@
           "opponentName": "Sachiv Prasath",
           "opponentScore": 466,
           "spread": -92
+        },
+        {
+          "round": 2,
+          "playerId": "21",
+          "name": "Tenuka Kalansooriya",
+          "result": "W",
+          "score": 585,
+          "opponentId": "29",
+          "opponentName": "Imandhi Kodippiliarachchi",
+          "opponentScore": 200,
+          "spread": 385
         }
       ]
     },
@@ -355,6 +575,17 @@
           "opponentName": "Tharin Nethmira Kariyawasam",
           "opponentScore": 481,
           "spread": -150
+        },
+        {
+          "round": 2,
+          "playerId": "22",
+          "name": "Mohamed Rilwan Hiba",
+          "result": "L",
+          "score": 301,
+          "opponentId": "19",
+          "opponentName": "Sithuki Thevinka Abeysinghe",
+          "opponentScore": 517,
+          "spread": -216
         }
       ]
     },
@@ -372,6 +603,17 @@
           "opponentName": "Kaumadee Balasinghe",
           "opponentScore": 526,
           "spread": -208
+        },
+        {
+          "round": 2,
+          "playerId": "23",
+          "name": "Kavinaya Nagules",
+          "result": "L",
+          "score": 229,
+          "opponentId": "25",
+          "opponentName": "Dulithi Vinujana Maranthota",
+          "opponentScore": 415,
+          "spread": -186
         }
       ]
     },
@@ -389,6 +631,17 @@
           "opponentName": "Ravindu Fernando",
           "opponentScore": 446,
           "spread": -121
+        },
+        {
+          "round": 2,
+          "playerId": "24",
+          "name": "Ruqaiyah Rumi Reyal",
+          "result": "L",
+          "score": 341,
+          "opponentId": "16",
+          "opponentName": "Ruchitha Thamal Lelwala Gurugamage",
+          "opponentScore": 470,
+          "spread": -129
         }
       ]
     },
@@ -406,6 +659,17 @@
           "opponentName": "Kyaan Perera",
           "opponentScore": 479,
           "spread": -119
+        },
+        {
+          "round": 2,
+          "playerId": "25",
+          "name": "Dulithi Vinujana Maranthota",
+          "result": "W",
+          "score": 415,
+          "opponentId": "23",
+          "opponentName": "Kavinaya Nagules",
+          "opponentScore": 229,
+          "spread": 186
         }
       ]
     },
@@ -423,6 +687,17 @@
           "opponentName": "Mohamed Imad Irshad",
           "opponentScore": 491,
           "spread": -262
+        },
+        {
+          "round": 2,
+          "playerId": "26",
+          "name": "Herath Mudiyanselage Sandakalee Damsara Herath",
+          "result": "L",
+          "score": 277,
+          "opponentId": "17",
+          "opponentName": "Gihansa Withana Pathirana",
+          "opponentScore": 504,
+          "spread": -227
         }
       ]
     },
@@ -440,6 +715,17 @@
           "opponentName": "Vidu Wijesundara",
           "opponentScore": 539,
           "spread": -274
+        },
+        {
+          "round": 2,
+          "playerId": "27",
+          "name": "Izmah Ismail",
+          "result": "L",
+          "score": 367,
+          "opponentId": "18",
+          "opponentName": "Tariq M. Rusan",
+          "opponentScore": 398,
+          "spread": -31
         }
       ]
     },
@@ -457,6 +743,17 @@
           "opponentName": "Sasmitha Aayush Nesadith Haputhanthiri",
           "opponentScore": 485,
           "spread": -217
+        },
+        {
+          "round": 2,
+          "playerId": "29",
+          "name": "Imandhi Kodippiliarachchi",
+          "result": "L",
+          "score": 200,
+          "opponentId": "21",
+          "opponentName": "Tenuka Kalansooriya",
+          "opponentScore": 585,
+          "spread": -385
         }
       ]
     },
@@ -474,6 +771,17 @@
           "opponentName": "Tharindu Fernando",
           "opponentScore": 521,
           "spread": -291
+        },
+        {
+          "round": 2,
+          "playerId": "30",
+          "name": "Harindu Thenujaya",
+          "result": "L",
+          "score": 249,
+          "opponentId": "6",
+          "opponentName": "Kevan Croos",
+          "opponentScore": 599,
+          "spread": -350
         }
       ]
     }
