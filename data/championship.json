@@ -1,38 +1,38 @@
 {
   "event": "championship",
-  "updated": "2026-08-23T12:09:53.108Z",
+  "updated": "2026-08-23T12:10:51.389Z",
   "players": {
-    "A8": {
-      "id": "A8",
-      "name": "Amanya",
-      "games": [
-        {
-          "round": 3,
-          "id": "A8",
-          "name": "Amanya",
-          "result": "W",
-          "score": 152,
-          "oppScore": 132,
-          "opponentId": "A2",
-          "spread": 20,
-          "opponentName": "Kavineya"
-        }
-      ]
-    },
     "A1": {
       "id": "A1",
       "name": "Ramela",
       "games": [
         {
-          "round": 3,
+          "round": 4,
           "id": "A1",
           "name": "Ramela",
           "result": "W",
-          "score": 276,
-          "oppScore": 206,
-          "opponentId": "A3",
-          "spread": 70,
-          "opponentName": "Viheli"
+          "score": 170,
+          "oppScore": 105,
+          "opponentId": "A8",
+          "spread": 65,
+          "opponentName": "Amanya"
+        }
+      ]
+    },
+    "A8": {
+      "id": "A8",
+      "name": "Amanya",
+      "games": [
+        {
+          "round": 4,
+          "id": "A8",
+          "name": "Amanya",
+          "result": "L",
+          "score": 105,
+          "oppScore": 170,
+          "opponentId": "A1",
+          "spread": -65,
+          "opponentName": "Ramela"
         }
       ]
     },
@@ -41,14 +41,48 @@
       "name": "Yaashnavi",
       "games": [
         {
-          "round": 3,
+          "round": 4,
           "id": "A7",
           "name": "Yaashnavi",
           "result": "W",
-          "score": 128,
-          "oppScore": 125,
+          "score": 173,
+          "oppScore": 155,
+          "opponentId": "A3",
+          "spread": 18,
+          "opponentName": "Viheli"
+        }
+      ]
+    },
+    "A10": {
+      "id": "A10",
+      "name": "Reha",
+      "games": [
+        {
+          "round": 4,
+          "id": "A10",
+          "name": "Reha",
+          "result": "W",
+          "score": 217,
+          "oppScore": 133,
+          "opponentId": "A9",
+          "spread": 84,
+          "opponentName": "Kiynush"
+        }
+      ]
+    },
+    "A2": {
+      "id": "A2",
+      "name": "Kavineya",
+      "games": [
+        {
+          "round": 4,
+          "id": "A2",
+          "name": "Kavineya",
+          "result": "W",
+          "score": 285,
+          "oppScore": 153,
           "opponentId": "A4",
-          "spread": 3,
+          "spread": 132,
           "opponentName": "Sasvidu"
         }
       ]
@@ -58,49 +92,15 @@
       "name": "Viheli",
       "games": [
         {
-          "round": 3,
+          "round": 4,
           "id": "A3",
           "name": "Viheli",
           "result": "L",
-          "score": 206,
-          "oppScore": 276,
-          "opponentId": "A1",
-          "spread": -70,
-          "opponentName": "Ramela"
-        }
-      ]
-    },
-    "A10": {
-      "id": "A10",
-      "name": "Reha",
-      "games": [
-        {
-          "round": 3,
-          "id": "A10",
-          "name": "Reha",
-          "result": "W",
-          "score": 144,
-          "oppScore": 122,
-          "opponentId": "A6",
-          "spread": 22,
-          "opponentName": "mahesaaniya"
-        }
-      ]
-    },
-    "A2": {
-      "id": "A2",
-      "name": "Kavineya",
-      "games": [
-        {
-          "round": 3,
-          "id": "A2",
-          "name": "Kavineya",
-          "result": "L",
-          "score": 132,
-          "oppScore": 152,
-          "opponentId": "A8",
-          "spread": -20,
-          "opponentName": "Amanya"
+          "score": 155,
+          "oppScore": 173,
+          "opponentId": "A7",
+          "spread": -18,
+          "opponentName": "Yaashnavi"
         }
       ]
     },
@@ -109,31 +109,31 @@
       "name": "Sasvidu",
       "games": [
         {
-          "round": 3,
+          "round": 4,
           "id": "A4",
           "name": "Sasvidu",
           "result": "L",
-          "score": 125,
-          "oppScore": 128,
-          "opponentId": "A7",
-          "spread": -3,
-          "opponentName": "Yaashnavi"
+          "score": 153,
+          "oppScore": 285,
+          "opponentId": "A2",
+          "spread": -132,
+          "opponentName": "Kavineya"
         }
       ]
     },
-    "A6": {
-      "id": "A6",
-      "name": "mahesaaniya",
+    "A9": {
+      "id": "A9",
+      "name": "Kiynush",
       "games": [
         {
-          "round": 3,
-          "id": "A6",
-          "name": "mahesaaniya",
+          "round": 4,
+          "id": "A9",
+          "name": "Kiynush",
           "result": "L",
-          "score": 122,
-          "oppScore": 144,
+          "score": 133,
+          "oppScore": 217,
           "opponentId": "A10",
-          "spread": -22,
+          "spread": -84,
           "opponentName": "Reha"
         }
       ]
