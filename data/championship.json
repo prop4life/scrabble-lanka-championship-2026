@@ -1,16 +1,176 @@
 {
-  "event":"championship",
-  "updated":"2026-08-23T12:30:00Z",
-  "players":{
-    "A8":{"id":"A8","name":"Amanya","games":[{"round":1,"id":"A8","name":"Amanya","result":"W","score":229,"oppScore":56,"opponentId":"A9","opponentName":"Kiynush","spread":173},{"round":2,"id":"A8","name":"Amanya","result":"W","score":323,"oppScore":164,"opponentId":"A10","opponentName":"Reha","spread":159}]},
-    "A4":{"id":"A4","name":"Sasvidu","games":[{"round":1,"id":"A4","name":"Sasvidu","result":"W","score":206,"oppScore":57,"opponentId":"A5","opponentName":"Chathuka","spread":149},{"round":2,"id":"A4","name":"Sasvidu","result":"L","score":121,"oppScore":184,"opponentId":"A3","opponentName":"Viheli","spread":-63}]},
-    "A1":{"id":"A1","name":"Ramela","games":[{"round":1,"id":"A1","name":"Ramela","result":"W","score":232,"oppScore":176,"opponentId":"A2","opponentName":"Kavineya","spread":56},{"round":2,"id":"A1","name":"Ramela","result":"W","score":243,"oppScore":78,"opponentId":"A6","opponentName":"mahesaaniya","spread":165}]},
-    "A10":{"id":"A10","name":"Reha","games":[{"round":1,"id":"A10","name":"Reha","result":"W","score":185,"oppScore":143,"opponentId":"A7","opponentName":"Yaashnavi","spread":42},{"round":2,"id":"A10","name":"Reha","result":"L","score":164,"oppScore":323,"opponentId":"A8","opponentName":"Amanya","spread":-159}]},
-    "A3":{"id":"A3","name":"Viheli","games":[{"round":1,"id":"A3","name":"Viheli","result":"W","score":95,"oppScore":63,"opponentId":"A6","opponentName":"mahesaaniya","spread":32},{"round":2,"id":"A3","name":"Viheli","result":"W","score":184,"oppScore":121,"opponentId":"A4","opponentName":"Sasvidu","spread":63}]},
-    "A6":{"id":"A6","name":"mahesaaniya","games":[{"round":1,"id":"A6","name":"mahesaaniya","result":"L","score":63,"oppScore":95,"opponentId":"A3","opponentName":"Viheli","spread":-32},{"round":2,"id":"A6","name":"mahesaaniya","result":"L","score":78,"oppScore":243,"opponentId":"A1","opponentName":"Ramela","spread":-165}]},
-    "A7":{"id":"A7","name":"Yaashnavi","games":[{"round":1,"id":"A7","name":"Yaashnavi","result":"L","score":143,"oppScore":185,"opponentId":"A10","opponentName":"Reha","spread":-42},{"round":2,"id":"A7","name":"Yaashnavi","result":"W","score":150,"oppScore":75,"opponentId":"A5","opponentName":"Chathuka","spread":75}]},
-    "A2":{"id":"A2","name":"Kavineya","games":[{"round":1,"id":"A2","name":"Kavineya","result":"L","score":176,"oppScore":232,"opponentId":"A1","opponentName":"Ramela","spread":-56},{"round":2,"id":"A2","name":"Kavineya","result":"W","score":306,"oppScore":124,"opponentId":"A9","opponentName":"Kiynush","spread":182}]},
-    "A5":{"id":"A5","name":"Chathuka","games":[{"round":1,"id":"A5","name":"Chathuka","result":"L","score":57,"oppScore":206,"opponentId":"A4","opponentName":"Sasvidu","spread":-149},{"round":2,"id":"A5","name":"Chathuka","result":"L","score":75,"oppScore":150,"opponentId":"A7","opponentName":"Yaashnavi","spread":-75}]},
-    "A9":{"id":"A9","name":"Kiynush","games":[{"round":1,"id":"A9","name":"Kiynush","result":"L","score":56,"oppScore":229,"opponentId":"A8","opponentName":"Amanya","spread":-173},{"round":2,"id":"A9","name":"Kiynush","result":"L","score":124,"oppScore":306,"opponentId":"A2","opponentName":"Kavineya","spread":-182}]}
+  "event": "championship",
+  "updated": "2026-08-23T12:08:03.908Z",
+  "players": {
+    "A8": {
+      "id": "A8",
+      "name": "Amanya",
+      "games": [
+        {
+          "round": 1,
+          "id": "A8",
+          "name": "Amanya",
+          "result": "W",
+          "score": 229,
+          "oppScore": 56,
+          "opponentId": "A9",
+          "spread": 173,
+          "opponentName": "Kiynush"
+        }
+      ]
+    },
+    "A4": {
+      "id": "A4",
+      "name": "Sasvidu",
+      "games": [
+        {
+          "round": 1,
+          "id": "A4",
+          "name": "Sasvidu",
+          "result": "W",
+          "score": 206,
+          "oppScore": 57,
+          "opponentId": "A5",
+          "spread": 149,
+          "opponentName": "Chathuka"
+        }
+      ]
+    },
+    "A1": {
+      "id": "A1",
+      "name": "Ramela",
+      "games": [
+        {
+          "round": 1,
+          "id": "A1",
+          "name": "Ramela",
+          "result": "W",
+          "score": 232,
+          "oppScore": 176,
+          "opponentId": "A2",
+          "spread": 56,
+          "opponentName": "Kavineya"
+        }
+      ]
+    },
+    "A10": {
+      "id": "A10",
+      "name": "Reha",
+      "games": [
+        {
+          "round": 1,
+          "id": "A10",
+          "name": "Reha",
+          "result": "W",
+          "score": 185,
+          "oppScore": 143,
+          "opponentId": "A7",
+          "spread": 42,
+          "opponentName": "Yaashnavi"
+        }
+      ]
+    },
+    "A3": {
+      "id": "A3",
+      "name": "Viheli",
+      "games": [
+        {
+          "round": 1,
+          "id": "A3",
+          "name": "Viheli",
+          "result": "W",
+          "score": 95,
+          "oppScore": 63,
+          "opponentId": "A6",
+          "spread": 32,
+          "opponentName": "mahesaaniya"
+        }
+      ]
+    },
+    "A6": {
+      "id": "A6",
+      "name": "mahesaaniya",
+      "games": [
+        {
+          "round": 1,
+          "id": "A6",
+          "name": "mahesaaniya",
+          "result": "L",
+          "score": 63,
+          "oppScore": 95,
+          "opponentId": "A3",
+          "spread": -32,
+          "opponentName": "Viheli"
+        }
+      ]
+    },
+    "A7": {
+      "id": "A7",
+      "name": "Yaashnavi",
+      "games": [
+        {
+          "round": 1,
+          "id": "A7",
+          "name": "Yaashnavi",
+          "result": "L",
+          "score": 143,
+          "oppScore": 185,
+          "opponentId": "A10",
+          "spread": -42,
+          "opponentName": "Reha"
+        }
+      ]
+    },
+    "A2": {
+      "id": "A2",
+      "name": "Kavineya",
+      "games": [
+        {
+          "round": 1,
+          "id": "A2",
+          "name": "Kavineya",
+          "result": "L",
+          "score": 176,
+          "oppScore": 232,
+          "opponentId": "A1",
+          "spread": -56,
+          "opponentName": "Ramela"
+        }
+      ]
+    },
+    "A5": {
+      "id": "A5",
+      "name": "Chathuka",
+      "games": [
+        {
+          "round": 1,
+          "id": "A5",
+          "name": "Chathuka",
+          "result": "L",
+          "score": 57,
+          "oppScore": 206,
+          "opponentId": "A4",
+          "spread": -149,
+          "opponentName": "Sasvidu"
+        }
+      ]
+    },
+    "A9": {
+      "id": "A9",
+      "name": "Kiynush",
+      "games": [
+        {
+          "round": 1,
+          "id": "A9",
+          "name": "Kiynush",
+          "result": "L",
+          "score": 56,
+          "oppScore": 229,
+          "opponentId": "A8",
+          "spread": -173,
+          "opponentName": "Amanya"
+        }
+      ]
+    }
   }
 }
