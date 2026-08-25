@@ -1,684 +1,1130 @@
 {
   "event": "u12",
-  "updated": "2026-08-25T03:51:23.743Z",
+  "updated": "2026-08-25T03:53:03.366Z",
   "players": {
     "A2": {
       "id": "A2",
-      "name": "Thacha Koowirat",
+      "name": "Thacha Koowirat (A2)",
       "games": [
         {
           "round": 1,
           "id": "A2",
-          "name": "Thacha Koowirat",
+          "name": "Thacha Koowirat (A2)",
           "result": "W",
           "score": 637,
           "oppScore": 230,
           "opponentId": "A20",
           "spread": 407,
-          "opponentName": "Jackie Cheah"
+          "opponentName": "Jackie Cheah (A20)"
+        },
+        {
+          "round": 2,
+          "id": "A2",
+          "name": "Thacha Koowirat",
+          "result": "W",
+          "score": 481,
+          "oppScore": 454,
+          "opponentId": "A41",
+          "spread": 27,
+          "opponentName": "Siddharth Nithyanand"
         }
       ]
     },
     "A18": {
       "id": "A18",
-      "name": "Ilham Irshad",
+      "name": "Ilham Irshad (A18)",
       "games": [
         {
           "round": 1,
           "id": "A18",
-          "name": "Ilham Irshad",
+          "name": "Ilham Irshad (A18)",
           "result": "W",
           "score": 437,
           "oppScore": 249,
           "opponentId": "A37",
           "spread": 188,
           "opponentName": "Pasindu Wijewardena"
+        },
+        {
+          "round": 2,
+          "id": "A18",
+          "name": "Ilham Irshad",
+          "result": "L",
+          "score": 493,
+          "oppScore": 505,
+          "opponentId": "A12",
+          "spread": -12,
+          "opponentName": "Indunil Amarasinghe"
         }
       ]
     },
     "A10": {
       "id": "A10",
-      "name": "Irfan Siddiqui",
+      "name": "Irfan Siddiqui (A10)",
       "games": [
         {
           "round": 1,
           "id": "A10",
-          "name": "Irfan Siddiqui",
+          "name": "Irfan Siddiqui (A10)",
           "result": "W",
           "score": 464,
           "oppScore": 296,
           "opponentId": "A26",
           "spread": 168,
           "opponentName": "Lakshman Cooray"
+        },
+        {
+          "round": 2,
+          "id": "A10",
+          "name": "Irfan Siddiqui",
+          "result": "L",
+          "score": 418,
+          "oppScore": 424,
+          "opponentId": "A7",
+          "spread": -6,
+          "opponentName": "Alex Tan"
         }
       ]
     },
     "A9": {
       "id": "A9",
-      "name": "Rahil Parkar",
+      "name": "Rahil Parkar (A9)",
       "games": [
         {
           "round": 1,
           "id": "A9",
-          "name": "Rahil Parkar",
+          "name": "Rahil Parkar (A9)",
           "result": "W",
           "score": 513,
           "oppScore": 346,
           "opponentId": "A34",
           "spread": 167,
           "opponentName": "Ramith Siriwardana"
+        },
+        {
+          "round": 2,
+          "id": "A9",
+          "name": "Rahil Parkar",
+          "result": "W",
+          "score": 410,
+          "oppScore": 401,
+          "opponentId": "A27",
+          "spread": 9,
+          "opponentName": "Inam Irshad"
         }
       ]
     },
     "A17": {
       "id": "A17",
-      "name": "Priya Fernando",
+      "name": "Priya Fernando (A17)",
       "games": [
         {
           "round": 1,
           "id": "A17",
-          "name": "Priya Fernando",
+          "name": "Priya Fernando (A17)",
           "result": "W",
           "score": 475,
           "oppScore": 340,
           "opponentId": "A38",
           "spread": 135,
           "opponentName": "Kithnuli Amarasinghe"
+        },
+        {
+          "round": 2,
+          "id": "A17",
+          "name": "Priya Fernando",
+          "result": "L",
+          "score": 338,
+          "oppScore": 417,
+          "opponentId": "A16",
+          "spread": -79,
+          "opponentName": "Danish Shahna"
         }
       ]
     },
     "A4": {
       "id": "A4",
-      "name": "Aditya Iyengar",
+      "name": "Aditya Iyengar (A4)",
       "games": [
         {
           "round": 1,
           "id": "A4",
-          "name": "Aditya Iyengar",
+          "name": "Aditya Iyengar (A4)",
           "result": "W",
           "score": 452,
           "oppScore": 334,
           "opponentId": "A22",
           "spread": 118,
           "opponentName": "Indramali Cooray"
+        },
+        {
+          "round": 2,
+          "id": "A4",
+          "name": "Aditya Iyengar",
+          "result": "W",
+          "score": 531,
+          "oppScore": 259,
+          "opponentId": "A40",
+          "spread": 272,
+          "opponentName": "Kyaan Perera"
         }
       ]
     },
     "A21": {
       "id": "A21",
-      "name": "Radhika Mahalingaiah",
+      "name": "Radhika Mahalingaiah (A21)",
       "games": [
         {
           "round": 1,
           "id": "A21",
-          "name": "Radhika Mahalingaiah",
+          "name": "Radhika Mahalingaiah (A21)",
           "result": "W",
           "score": 467,
           "oppScore": 390,
           "opponentId": "A3",
           "spread": 77,
           "opponentName": "Sherwin Rodrigues"
+        },
+        {
+          "round": 2,
+          "id": "A21",
+          "name": "Radhika Mahalingaiah",
+          "result": "L",
+          "score": 363,
+          "oppScore": 476,
+          "opponentId": "A6",
+          "spread": -113,
+          "opponentName": "Sanjoy Gupta"
         }
       ]
     },
     "A14": {
       "id": "A14",
-      "name": "Manju Sood",
+      "name": "Manju Sood (A14)",
       "games": [
         {
           "round": 1,
           "id": "A14",
-          "name": "Manju Sood",
+          "name": "Manju Sood (A14)",
           "result": "W",
           "score": 449,
           "oppScore": 385,
           "opponentId": "A29",
           "spread": 64,
           "opponentName": "Hema Abeysinghe"
+        },
+        {
+          "round": 2,
+          "id": "A14",
+          "name": "Manju Sood",
+          "result": "W",
+          "score": 390,
+          "oppScore": 376,
+          "opponentId": "A32",
+          "spread": 14,
+          "opponentName": "Imad Irshad"
         }
       ]
     },
     "A8": {
       "id": "A8",
-      "name": "Sunny Bhatia",
+      "name": "Sunny Bhatia (A8)",
       "games": [
         {
           "round": 1,
           "id": "A8",
-          "name": "Sunny Bhatia",
+          "name": "Sunny Bhatia (A8)",
           "result": "W",
           "score": 531,
           "oppScore": 474,
           "opponentId": "A25",
           "spread": 57,
           "opponentName": "Vignesh S"
+        },
+        {
+          "round": 2,
+          "id": "A8",
+          "name": "Sunny Bhatia",
+          "result": "L",
+          "score": 367,
+          "oppScore": 434,
+          "opponentId": "A1",
+          "spread": -67,
+          "opponentName": "Suresh Chinnaiyah"
         }
       ]
     },
     "A13": {
       "id": "A13",
-      "name": "Shaila Amalean",
+      "name": "Shaila Amalean (A13)",
       "games": [
         {
           "round": 1,
           "id": "A13",
-          "name": "Shaila Amalean",
+          "name": "Shaila Amalean (A13)",
           "result": "W",
           "score": 425,
           "oppScore": 371,
           "opponentId": "A39",
           "spread": 54,
           "opponentName": "Aranya Bandusena"
+        },
+        {
+          "round": 2,
+          "id": "A13",
+          "name": "Shaila Amalean",
+          "result": "W",
+          "score": 417,
+          "oppScore": 393,
+          "opponentId": "A33",
+          "spread": 24,
+          "opponentName": "Charith Rajasiri"
         }
       ]
     },
     "A41": {
       "id": "A41",
-      "name": "Siddharth Nithyanand",
+      "name": "Siddharth Nithyanand (A41)",
       "games": [
         {
           "round": 1,
           "id": "A41",
-          "name": "Siddharth Nithyanand",
+          "name": "Siddharth Nithyanand (A41)",
           "result": "W",
           "score": 438,
           "oppScore": 388,
           "opponentId": "A30",
           "spread": 50,
           "opponentName": "Nimuthu Witharana"
+        },
+        {
+          "round": 2,
+          "id": "A41",
+          "name": "Siddharth Nithyanand",
+          "result": "L",
+          "score": 454,
+          "oppScore": 481,
+          "opponentId": "A2",
+          "spread": -27,
+          "opponentName": "Thacha Koowirat"
         }
       ]
     },
     "A6": {
       "id": "A6",
-      "name": "Sanjoy Gupta",
+      "name": "Sanjoy Gupta (A6)",
       "games": [
         {
           "round": 1,
           "id": "A6",
-          "name": "Sanjoy Gupta",
+          "name": "Sanjoy Gupta (A6)",
           "result": "W",
           "score": 499,
           "oppScore": 450,
           "opponentId": "A31",
           "spread": 49,
           "opponentName": "Dineth Fernando"
+        },
+        {
+          "round": 2,
+          "id": "A6",
+          "name": "Sanjoy Gupta",
+          "result": "W",
+          "score": 476,
+          "oppScore": 363,
+          "opponentId": "A21",
+          "spread": 113,
+          "opponentName": "Radhika Mahalingaiah"
         }
       ]
     },
     "A7": {
       "id": "A7",
-      "name": "Alex Tan",
+      "name": "Alex Tan (A7)",
       "games": [
         {
           "round": 1,
           "id": "A7",
-          "name": "Alex Tan",
+          "name": "Alex Tan (A7)",
           "result": "W",
           "score": 463,
           "oppScore": 423,
           "opponentId": "A24",
           "spread": 40,
           "opponentName": "Farida Akbarally"
+        },
+        {
+          "round": 2,
+          "id": "A7",
+          "name": "Alex Tan",
+          "result": "W",
+          "score": 424,
+          "oppScore": 418,
+          "opponentId": "A10",
+          "spread": 6,
+          "opponentName": "Irfan Siddiqui"
         }
       ]
     },
     "A12": {
       "id": "A12",
-      "name": "Indunil Amarasinghe",
+      "name": "Indunil Amarasinghe (A12)",
       "games": [
         {
           "round": 1,
           "id": "A12",
-          "name": "Indunil Amarasinghe",
+          "name": "Indunil Amarasinghe (A12)",
           "result": "W",
           "score": 441,
           "oppScore": 406,
           "opponentId": "A28",
           "spread": 35,
           "opponentName": "Kevan Croos"
+        },
+        {
+          "round": 2,
+          "id": "A12",
+          "name": "Indunil Amarasinghe",
+          "result": "W",
+          "score": 505,
+          "oppScore": 493,
+          "opponentId": "A18",
+          "spread": 12,
+          "opponentName": "Ilham Irshad"
         }
       ]
     },
     "A27": {
       "id": "A27",
-      "name": "Inam Irshad",
+      "name": "Inam Irshad (A27)",
       "games": [
         {
           "round": 1,
           "id": "A27",
-          "name": "Inam Irshad",
+          "name": "Inam Irshad (A27)",
           "result": "W",
           "score": 445,
           "oppScore": 415,
           "opponentId": "A11",
           "spread": 30,
           "opponentName": "Ishika Shivalingaiah"
+        },
+        {
+          "round": 2,
+          "id": "A27",
+          "name": "Inam Irshad",
+          "result": "L",
+          "score": 401,
+          "oppScore": 410,
+          "opponentId": "A9",
+          "spread": -9,
+          "opponentName": "Rahil Parkar"
         }
       ]
     },
     "A16": {
       "id": "A16",
-      "name": "Danish Shahna",
+      "name": "Danish Shahna (A16)",
       "games": [
         {
           "round": 1,
           "id": "A16",
-          "name": "Danish Shahna",
+          "name": "Danish Shahna (A16)",
           "result": "W",
           "score": 439,
           "oppScore": 416,
           "opponentId": "A36",
           "spread": 23,
           "opponentName": "Aayush Haputhanthiri"
+        },
+        {
+          "round": 2,
+          "id": "A16",
+          "name": "Danish Shahna",
+          "result": "W",
+          "score": 417,
+          "oppScore": 338,
+          "opponentId": "A17",
+          "spread": 79,
+          "opponentName": "Priya Fernando"
         }
       ]
     },
     "A40": {
       "id": "A40",
-      "name": "Kyaan Perera",
+      "name": "Kyaan Perera (A40)",
       "games": [
         {
           "round": 1,
           "id": "A40",
-          "name": "Kyaan Perera",
+          "name": "Kyaan Perera (A40)",
           "result": "W",
           "score": 384,
           "oppScore": 369,
           "opponentId": "A15",
           "spread": 15,
           "opponentName": "Mangala Bhandarkar"
+        },
+        {
+          "round": 2,
+          "id": "A40",
+          "name": "Kyaan Perera",
+          "result": "L",
+          "score": 259,
+          "oppScore": 531,
+          "opponentId": "A4",
+          "spread": -272,
+          "opponentName": "Aditya Iyengar"
         }
       ]
     },
     "A5": {
       "id": "A5",
-      "name": "Adheesha Dissanayake",
+      "name": "Adheesha Dissanayake (A5)",
       "games": [
         {
           "round": 1,
           "id": "A5",
-          "name": "Adheesha Dissanayake",
+          "name": "Adheesha Dissanayake (A5)",
           "result": "W",
           "score": 371,
           "oppScore": 358,
           "opponentId": "A23",
           "spread": 13,
           "opponentName": "Wimal Fernando"
+        },
+        {
+          "round": 2,
+          "id": "A5",
+          "name": "Adheesha Dissanayake",
+          "result": "W",
+          "score": 469,
+          "oppScore": 324,
+          "opponentId": "A35",
+          "spread": 145,
+          "opponentName": "Tharin Kariyawasam"
         }
       ]
     },
     "A1": {
       "id": "A1",
-      "name": "Suresh Chinnaiyah",
+      "name": "Suresh Chinnaiyah (A1)",
       "games": [
         {
           "round": 1,
           "id": "A1",
-          "name": "Suresh Chinnaiyah",
+          "name": "Suresh Chinnaiyah (A1)",
           "result": "W",
           "score": 514,
           "oppScore": 509,
           "opponentId": "A19",
           "spread": 5,
           "opponentName": "Imeth De Silva"
+        },
+        {
+          "round": 2,
+          "id": "A1",
+          "name": "Suresh Chinnaiyah",
+          "result": "W",
+          "score": 434,
+          "oppScore": 367,
+          "opponentId": "A8",
+          "spread": 67,
+          "opponentName": "Sunny Bhatia"
         }
       ]
     },
     "A32": {
       "id": "A32",
-      "name": "Imad Irshad",
+      "name": "Imad Irshad (A32)",
       "games": [
         {
           "round": 1,
           "id": "A32",
-          "name": "Imad Irshad",
+          "name": "Imad Irshad (A32)",
           "result": "W",
           "score": 476,
           "oppScore": 473,
           "opponentId": "A33",
           "spread": 3,
           "opponentName": "Charith Rajasiri"
+        },
+        {
+          "round": 2,
+          "id": "A32",
+          "name": "Imad Irshad",
+          "result": "L",
+          "score": 376,
+          "oppScore": 390,
+          "opponentId": "A14",
+          "spread": -14,
+          "opponentName": "Manju Sood"
         }
       ]
     },
     "A33": {
       "id": "A33",
-      "name": "Charith Rajasiri",
+      "name": "Charith Rajasiri (A33)",
       "games": [
         {
           "round": 1,
           "id": "A33",
-          "name": "Charith Rajasiri",
+          "name": "Charith Rajasiri (A33)",
           "result": "L",
           "score": 473,
           "oppScore": 476,
           "opponentId": "A32",
           "spread": -3,
           "opponentName": "Imad Irshad"
+        },
+        {
+          "round": 2,
+          "id": "A33",
+          "name": "Charith Rajasiri",
+          "result": "L",
+          "score": 393,
+          "oppScore": 417,
+          "opponentId": "A13",
+          "spread": -24,
+          "opponentName": "Shaila Amalean"
         }
       ]
     },
     "A19": {
       "id": "A19",
-      "name": "Imeth De Silva",
+      "name": "Imeth De Silva (A19)",
       "games": [
         {
           "round": 1,
           "id": "A19",
-          "name": "Imeth De Silva",
+          "name": "Imeth De Silva (A19)",
           "result": "L",
           "score": 509,
           "oppScore": 514,
           "opponentId": "A1",
           "spread": -5,
           "opponentName": "Suresh Chinnaiyah"
+        },
+        {
+          "round": 2,
+          "id": "A19",
+          "name": "Imeth De Silva",
+          "result": "W",
+          "score": 434,
+          "oppScore": 326,
+          "opponentId": "A39",
+          "spread": 108,
+          "opponentName": "Aranya Bandusena"
         }
       ]
     },
     "A23": {
       "id": "A23",
-      "name": "Wimal Fernando",
+      "name": "Wimal Fernando (A23)",
       "games": [
         {
           "round": 1,
           "id": "A23",
-          "name": "Wimal Fernando",
+          "name": "Wimal Fernando (A23)",
           "result": "L",
           "score": 358,
           "oppScore": 371,
           "opponentId": "A5",
           "spread": -13,
           "opponentName": "Adheesha Dissanayake"
+        },
+        {
+          "round": 2,
+          "id": "A23",
+          "name": "Wimal Fernando",
+          "result": "W",
+          "score": 397,
+          "oppScore": 388,
+          "opponentId": "A25",
+          "spread": 9,
+          "opponentName": "Vignesh S"
         }
       ]
     },
     "A15": {
       "id": "A15",
-      "name": "Mangala Bhandarkar",
+      "name": "Mangala Bhandarkar (A15)",
       "games": [
         {
           "round": 1,
           "id": "A15",
-          "name": "Mangala Bhandarkar",
+          "name": "Mangala Bhandarkar (A15)",
           "result": "L",
           "score": 369,
           "oppScore": 384,
           "opponentId": "A40",
           "spread": -15,
           "opponentName": "Kyaan Perera"
+        },
+        {
+          "round": 2,
+          "id": "A15",
+          "name": "Mangala Bhandarkar",
+          "result": "W",
+          "score": 476,
+          "oppScore": 276,
+          "opponentId": "A29",
+          "spread": 200,
+          "opponentName": "Hema Abeysinghe"
         }
       ]
     },
     "A36": {
       "id": "A36",
-      "name": "Aayush Haputhanthiri",
+      "name": "Aayush Haputhanthiri (A36)",
       "games": [
         {
           "round": 1,
           "id": "A36",
-          "name": "Aayush Haputhanthiri",
+          "name": "Aayush Haputhanthiri (A36)",
           "result": "L",
           "score": 416,
           "oppScore": 439,
           "opponentId": "A16",
           "spread": -23,
           "opponentName": "Danish Shahna"
+        },
+        {
+          "round": 2,
+          "id": "A36",
+          "name": "Aayush Haputhanthiri",
+          "result": "L",
+          "score": 351,
+          "oppScore": 487,
+          "opponentId": "A3",
+          "spread": -136,
+          "opponentName": "Sherwin Rodrigues"
         }
       ]
     },
     "A11": {
       "id": "A11",
-      "name": "Ishika Shivalingaiah",
+      "name": "Ishika Shivalingaiah (A11)",
       "games": [
         {
           "round": 1,
           "id": "A11",
-          "name": "Ishika Shivalingaiah",
+          "name": "Ishika Shivalingaiah (A11)",
           "result": "L",
           "score": 415,
           "oppScore": 445,
           "opponentId": "A27",
           "spread": -30,
           "opponentName": "Inam Irshad"
+        },
+        {
+          "round": 2,
+          "id": "A11",
+          "name": "Ishika Shivalingaiah",
+          "result": "W",
+          "score": 531,
+          "oppScore": 359,
+          "opponentId": "A22",
+          "spread": 172,
+          "opponentName": "Indramali Cooray"
         }
       ]
     },
     "A28": {
       "id": "A28",
-      "name": "Kevan Croos",
+      "name": "Kevan Croos (A28)",
       "games": [
         {
           "round": 1,
           "id": "A28",
-          "name": "Kevan Croos",
+          "name": "Kevan Croos (A28)",
           "result": "L",
           "score": 406,
           "oppScore": 441,
           "opponentId": "A12",
           "spread": -35,
           "opponentName": "Indunil Amarasinghe"
+        },
+        {
+          "round": 2,
+          "id": "A28",
+          "name": "Kevan Croos",
+          "result": "W",
+          "score": 498,
+          "oppScore": 375,
+          "opponentId": "A37",
+          "spread": 123,
+          "opponentName": "Pasindu Wijewardena"
         }
       ]
     },
     "A24": {
       "id": "A24",
-      "name": "Farida Akbarally",
+      "name": "Farida Akbarally (A24)",
       "games": [
         {
           "round": 1,
           "id": "A24",
-          "name": "Farida Akbarally",
+          "name": "Farida Akbarally (A24)",
           "result": "L",
           "score": 423,
           "oppScore": 463,
           "opponentId": "A7",
           "spread": -40,
           "opponentName": "Alex Tan"
+        },
+        {
+          "round": 2,
+          "id": "A24",
+          "name": "Farida Akbarally",
+          "result": "L",
+          "score": 372,
+          "oppScore": 481,
+          "opponentId": "A34",
+          "spread": -109,
+          "opponentName": "Ramith Siriwardana"
         }
       ]
     },
     "A31": {
       "id": "A31",
-      "name": "Dineth Fernando",
+      "name": "Dineth Fernando (A31)",
       "games": [
         {
           "round": 1,
           "id": "A31",
-          "name": "Dineth Fernando",
+          "name": "Dineth Fernando (A31)",
           "result": "L",
           "score": 450,
           "oppScore": 499,
           "opponentId": "A6",
           "spread": -49,
           "opponentName": "Sanjoy Gupta"
+        },
+        {
+          "round": 2,
+          "id": "A31",
+          "name": "Dineth Fernando",
+          "result": "W",
+          "score": 454,
+          "oppScore": 340,
+          "opponentId": "A26",
+          "spread": 114,
+          "opponentName": "Lakshman Cooray"
         }
       ]
     },
     "A30": {
       "id": "A30",
-      "name": "Nimuthu Witharana",
+      "name": "Nimuthu Witharana (A30)",
       "games": [
         {
           "round": 1,
           "id": "A30",
-          "name": "Nimuthu Witharana",
+          "name": "Nimuthu Witharana (A30)",
           "result": "L",
           "score": 388,
           "oppScore": 438,
           "opponentId": "A41",
           "spread": -50,
           "opponentName": "Siddharth Nithyanand"
+        },
+        {
+          "round": 2,
+          "id": "A30",
+          "name": "Nimuthu Witharana",
+          "result": "W",
+          "score": 449,
+          "oppScore": 425,
+          "opponentId": "A38",
+          "spread": 24,
+          "opponentName": "Kithnuli Amarasinghe"
         }
       ]
     },
     "A39": {
       "id": "A39",
-      "name": "Aranya Bandusena",
+      "name": "Aranya Bandusena (A39)",
       "games": [
         {
           "round": 1,
           "id": "A39",
-          "name": "Aranya Bandusena",
+          "name": "Aranya Bandusena (A39)",
           "result": "L",
           "score": 371,
           "oppScore": 425,
           "opponentId": "A13",
           "spread": -54,
           "opponentName": "Shaila Amalean"
+        },
+        {
+          "round": 2,
+          "id": "A39",
+          "name": "Aranya Bandusena",
+          "result": "L",
+          "score": 326,
+          "oppScore": 434,
+          "opponentId": "A19",
+          "spread": -108,
+          "opponentName": "Imeth De Silva"
         }
       ]
     },
     "A25": {
       "id": "A25",
-      "name": "Vignesh S",
+      "name": "Vignesh S (A25)",
       "games": [
         {
           "round": 1,
           "id": "A25",
-          "name": "Vignesh S",
+          "name": "Vignesh S (A25)",
           "result": "L",
           "score": 474,
           "oppScore": 531,
           "opponentId": "A8",
           "spread": -57,
           "opponentName": "Sunny Bhatia"
+        },
+        {
+          "round": 2,
+          "id": "A25",
+          "name": "Vignesh S",
+          "result": "L",
+          "score": 388,
+          "oppScore": 397,
+          "opponentId": "A23",
+          "spread": -9,
+          "opponentName": "Wimal Fernando"
         }
       ]
     },
     "A29": {
       "id": "A29",
-      "name": "Hema Abeysinghe",
+      "name": "Hema Abeysinghe (A29)",
       "games": [
         {
           "round": 1,
           "id": "A29",
-          "name": "Hema Abeysinghe",
+          "name": "Hema Abeysinghe (A29)",
           "result": "L",
           "score": 385,
           "oppScore": 449,
           "opponentId": "A14",
           "spread": -64,
           "opponentName": "Manju Sood"
+        },
+        {
+          "round": 2,
+          "id": "A29",
+          "name": "Hema Abeysinghe",
+          "result": "L",
+          "score": 276,
+          "oppScore": 476,
+          "opponentId": "A15",
+          "spread": -200,
+          "opponentName": "Mangala Bhandarkar"
         }
       ]
     },
     "A3": {
       "id": "A3",
-      "name": "Sherwin Rodrigues",
+      "name": "Sherwin Rodrigues (A3)",
       "games": [
         {
           "round": 1,
           "id": "A3",
-          "name": "Sherwin Rodrigues",
+          "name": "Sherwin Rodrigues (A3)",
           "result": "L",
           "score": 390,
           "oppScore": 467,
           "opponentId": "A21",
           "spread": -77,
           "opponentName": "Radhika Mahalingaiah"
+        },
+        {
+          "round": 2,
+          "id": "A3",
+          "name": "Sherwin Rodrigues",
+          "result": "W",
+          "score": 487,
+          "oppScore": 351,
+          "opponentId": "A36",
+          "spread": 136,
+          "opponentName": "Aayush Haputhanthiri"
         }
       ]
     },
     "A22": {
       "id": "A22",
-      "name": "Indramali Cooray",
+      "name": "Indramali Cooray (A22)",
       "games": [
         {
           "round": 1,
           "id": "A22",
-          "name": "Indramali Cooray",
+          "name": "Indramali Cooray (A22)",
           "result": "L",
           "score": 334,
           "oppScore": 452,
           "opponentId": "A4",
           "spread": -118,
           "opponentName": "Aditya Iyengar"
+        },
+        {
+          "round": 2,
+          "id": "A22",
+          "name": "Indramali Cooray",
+          "result": "L",
+          "score": 359,
+          "oppScore": 531,
+          "opponentId": "A11",
+          "spread": -172,
+          "opponentName": "Ishika Shivalingaiah"
         }
       ]
     },
     "A38": {
       "id": "A38",
-      "name": "Kithnuli Amarasinghe",
+      "name": "Kithnuli Amarasinghe (A38)",
       "games": [
         {
           "round": 1,
           "id": "A38",
-          "name": "Kithnuli Amarasinghe",
+          "name": "Kithnuli Amarasinghe (A38)",
           "result": "L",
           "score": 340,
           "oppScore": 475,
           "opponentId": "A17",
           "spread": -135,
           "opponentName": "Priya Fernando"
+        },
+        {
+          "round": 2,
+          "id": "A38",
+          "name": "Kithnuli Amarasinghe",
+          "result": "L",
+          "score": 425,
+          "oppScore": 449,
+          "opponentId": "A30",
+          "spread": -24,
+          "opponentName": "Nimuthu Witharana"
         }
       ]
     },
     "A34": {
       "id": "A34",
-      "name": "Ramith Siriwardana",
+      "name": "Ramith Siriwardana (A34)",
       "games": [
         {
           "round": 1,
           "id": "A34",
-          "name": "Ramith Siriwardana",
+          "name": "Ramith Siriwardana (A34)",
           "result": "L",
           "score": 346,
           "oppScore": 513,
           "opponentId": "A9",
           "spread": -167,
           "opponentName": "Rahil Parkar"
+        },
+        {
+          "round": 2,
+          "id": "A34",
+          "name": "Ramith Siriwardana",
+          "result": "W",
+          "score": 481,
+          "oppScore": 372,
+          "opponentId": "A24",
+          "spread": 109,
+          "opponentName": "Farida Akbarally"
         }
       ]
     },
     "A26": {
       "id": "A26",
-      "name": "Lakshman Cooray",
+      "name": "Lakshman Cooray (A26)",
       "games": [
         {
           "round": 1,
           "id": "A26",
-          "name": "Lakshman Cooray",
+          "name": "Lakshman Cooray (A26)",
           "result": "L",
           "score": 296,
           "oppScore": 464,
           "opponentId": "A10",
           "spread": -168,
           "opponentName": "Irfan Siddiqui"
+        },
+        {
+          "round": 2,
+          "id": "A26",
+          "name": "Lakshman Cooray",
+          "result": "L",
+          "score": 340,
+          "oppScore": 454,
+          "opponentId": "A31",
+          "spread": -114,
+          "opponentName": "Dineth Fernando"
         }
       ]
     },
     "A37": {
       "id": "A37",
-      "name": "Pasindu Wijewardena",
+      "name": "Pasindu Wijewardena (A37)",
       "games": [
         {
           "round": 1,
           "id": "A37",
-          "name": "Pasindu Wijewardena",
+          "name": "Pasindu Wijewardena (A37)",
           "result": "L",
           "score": 249,
           "oppScore": 437,
           "opponentId": "A18",
           "spread": -188,
           "opponentName": "Ilham Irshad"
+        },
+        {
+          "round": 2,
+          "id": "A37",
+          "name": "Pasindu Wijewardena",
+          "result": "L",
+          "score": 375,
+          "oppScore": 498,
+          "opponentId": "A28",
+          "spread": -123,
+          "opponentName": "Kevan Croos"
         }
       ]
     },
     "A20": {
       "id": "A20",
-      "name": "Jackie Cheah",
+      "name": "Jackie Cheah (A20)",
       "games": [
         {
           "round": 1,
           "id": "A20",
-          "name": "Jackie Cheah",
+          "name": "Jackie Cheah (A20)",
           "result": "L",
           "score": 230,
           "oppScore": 637,
           "opponentId": "A2",
           "spread": -407,
           "opponentName": "Thacha Koowirat"
+        }
+      ]
+    },
+    "A35": {
+      "id": "A35",
+      "name": "Tharin Kariyawasam",
+      "games": [
+        {
+          "round": 2,
+          "id": "A35",
+          "name": "Tharin Kariyawasam",
+          "result": "L",
+          "score": 324,
+          "oppScore": 469,
+          "opponentId": "A5",
+          "spread": -145,
+          "opponentName": "Adheesha Dissanayake"
         }
       ]
     }
