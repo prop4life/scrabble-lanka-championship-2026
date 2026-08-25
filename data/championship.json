@@ -1,6 +1,6 @@
 {
   "event": "championship",
-  "updated": "2026-08-25T02:24:23.254Z",
+  "updated": "2026-08-25T02:25:55.438Z",
   "players": {
     "1": {
       "id": "1",
@@ -59,7 +59,7 @@
           "oppScore": 149,
           "opponentId": "36",
           "spread": 31,
-          "opponentName": "Aditha Medagoda (#36)"
+          "opponentName": "Aditha Medagoda"
         },
         {
           "round": 6,
@@ -130,13 +130,24 @@
         {
           "round": 13,
           "id": "1",
-          "name": "S A D Dewnith",
+          "name": "S A D Dewnith (#1)",
           "result": "W",
           "score": 324,
           "oppScore": 274,
           "opponentId": "44",
           "spread": 50,
           "opponentName": "Umar Rushdie"
+        },
+        {
+          "round": 14,
+          "id": "1",
+          "name": "S A D Dewnith",
+          "result": "L",
+          "score": 251,
+          "oppScore": 271,
+          "opponentId": "22",
+          "spread": -20,
+          "opponentName": "M L Yuhas Chanulaka Liyanage"
         }
       ]
     },
@@ -279,13 +290,24 @@
         {
           "round": 13,
           "id": "2",
-          "name": "Iranya Bulankulame",
+          "name": "Iranya Bulankulame (#2)",
           "result": "L",
           "score": 253,
           "oppScore": 333,
           "opponentId": "28",
           "spread": -80,
           "opponentName": "Sandakalee Herath"
+        },
+        {
+          "round": 14,
+          "id": "2",
+          "name": "Iranya Bulankulame",
+          "result": "W",
+          "score": 411,
+          "oppScore": 338,
+          "opponentId": "3",
+          "spread": 73,
+          "opponentName": "Tehash Kodikara"
         }
       ]
     },
@@ -428,13 +450,24 @@
         {
           "round": 13,
           "id": "3",
-          "name": "Tehash Kodikara",
+          "name": "Tehash Kodikara (#3)",
           "result": "W",
           "score": 409,
           "oppScore": 260,
           "opponentId": "22",
           "spread": 149,
           "opponentName": "M L Yuhas Chanulaka Liyanage"
+        },
+        {
+          "round": 14,
+          "id": "3",
+          "name": "Tehash Kodikara",
+          "result": "L",
+          "score": 338,
+          "oppScore": 411,
+          "opponentId": "2",
+          "spread": -73,
+          "opponentName": "Iranya Bulankulame"
         }
       ]
     },
@@ -566,13 +599,24 @@
         {
           "round": 13,
           "id": "4",
-          "name": "M. Kalan Hasmitha",
+          "name": "M. Kalan Hasmitha (#4)",
           "result": "W",
           "score": 161,
           "oppScore": 152,
           "opponentId": "43",
           "spread": 9,
           "opponentName": "Sayul Heenduwa"
+        },
+        {
+          "round": 14,
+          "id": "4",
+          "name": "M. Kalan Hasmitha",
+          "result": "L",
+          "score": 217,
+          "oppScore": 340,
+          "opponentId": "59",
+          "spread": -123,
+          "opponentName": "T.M. ABEYRATHNA"
         }
       ]
     },
@@ -600,7 +644,7 @@
           "oppScore": 366,
           "opponentId": "38",
           "spread": -21,
-          "opponentName": "Arianna Sirisena"
+          "opponentName": "Arianna Sirisena (#38)"
         },
         {
           "round": 3,
@@ -715,13 +759,24 @@
         {
           "round": 13,
           "id": "5",
-          "name": "Kenuli Hasindya Kariyawasam",
+          "name": "Kenuli Hasindya Kariyawasam (#5)",
           "result": "W",
           "score": 150,
           "oppScore": 75,
           "opponentId": "38",
           "spread": 75,
-          "opponentName": "Arianna Sirisena"
+          "opponentName": "Arianna Sirisena (#38)"
+        },
+        {
+          "round": 14,
+          "id": "5",
+          "name": "Kenuli Hasindya Kariyawasam",
+          "result": "L",
+          "score": 264,
+          "oppScore": 508,
+          "opponentId": "17",
+          "spread": -244,
+          "opponentName": "Rashane De' Almeida"
         }
       ]
     },
@@ -864,13 +919,24 @@
         {
           "round": 13,
           "id": "6",
-          "name": "W.M. Ayansa Methdini Gunathilaka",
+          "name": "W.M. Ayansa Methdini Gunathilaka (#6)",
           "result": "W",
           "score": 401,
           "oppScore": 304,
           "opponentId": "34",
           "spread": 97,
           "opponentName": "Nadithie Liyanage"
+        },
+        {
+          "round": 14,
+          "id": "6",
+          "name": "W.M. Ayansa Methdini Gunathilaka",
+          "result": "L",
+          "score": 271,
+          "oppScore": 543,
+          "opponentId": "7",
+          "spread": -272,
+          "opponentName": "Mayabandara Jayasekara Mudiyanselage Adithya Lankesh Mayabandara"
         }
       ]
     },
@@ -1013,13 +1079,24 @@
         {
           "round": 13,
           "id": "7",
-          "name": "Mayabandara Jayasekara Mudiyanselage Adithya Lankesh Mayabandara",
+          "name": "Mayabandara Jayasekara Mudiyanselage Adithya Lankesh Mayabandara (#7)",
           "result": "W",
           "score": 413,
           "oppScore": 370,
           "opponentId": "56",
           "spread": 43,
           "opponentName": "Eleasha Dias"
+        },
+        {
+          "round": 14,
+          "id": "7",
+          "name": "Mayabandara Jayasekara Mudiyanselage Adithya Lankesh Mayabandara",
+          "result": "W",
+          "score": 543,
+          "oppScore": 271,
+          "opponentId": "6",
+          "spread": 272,
+          "opponentName": "W.M. Ayansa Methdini Gunathilaka"
         }
       ]
     },
@@ -1162,13 +1239,24 @@
         {
           "round": 13,
           "id": "8",
-          "name": "Fathima Muhammad",
+          "name": "Fathima Muhammad (#8)",
           "result": "W",
           "score": 478,
           "oppScore": 428,
           "opponentId": "39",
           "spread": 50,
           "opponentName": "Saveen Randheeraka Wanigasekara"
+        },
+        {
+          "round": 14,
+          "id": "8",
+          "name": "Fathima Muhammad",
+          "result": "W",
+          "score": 481,
+          "oppScore": 331,
+          "opponentId": "12",
+          "spread": 150,
+          "opponentName": "Risara Kannangara"
         }
       ]
     },
@@ -1311,13 +1399,24 @@
         {
           "round": 13,
           "id": "9",
-          "name": "NETHUMI PIYATISSA",
+          "name": "NETHUMI PIYATISSA (#9)",
           "result": "W",
           "score": 391,
           "oppScore": 389,
           "opponentId": "40",
           "spread": 2,
           "opponentName": "Salma Khalid"
+        },
+        {
+          "round": 14,
+          "id": "9",
+          "name": "NETHUMI PIYATISSA",
+          "result": "W",
+          "score": 476,
+          "oppScore": 348,
+          "opponentId": "19",
+          "spread": 128,
+          "opponentName": "Kisandu Nimthula Kumarage"
         }
       ]
     },
@@ -1367,7 +1466,7 @@
           "oppScore": 316,
           "opponentId": "38",
           "spread": 6,
-          "opponentName": "Arianna Sirisena"
+          "opponentName": "Arianna Sirisena (#38)"
         },
         {
           "round": 5,
@@ -1460,13 +1559,24 @@
         {
           "round": 13,
           "id": "10",
-          "name": "Dulin Sandes Fernando",
+          "name": "Dulin Sandes Fernando (#10)",
           "result": "L",
           "score": 338,
           "oppScore": 350,
           "opponentId": "30",
           "spread": -12,
           "opponentName": "Janiru Imandiv Jayawardhana"
+        },
+        {
+          "round": 14,
+          "id": "10",
+          "name": "Dulin Sandes Fernando",
+          "result": "W",
+          "score": 468,
+          "oppScore": 330,
+          "opponentId": "16",
+          "spread": 138,
+          "opponentName": "Gesandu Samarasekere"
         }
       ]
     },
@@ -1609,13 +1719,24 @@
         {
           "round": 13,
           "id": "11",
-          "name": "Sandeki De Silva",
+          "name": "Sandeki De Silva (#11)",
           "result": "L",
           "score": 341,
           "oppScore": 378,
           "opponentId": "53",
           "spread": -37,
           "opponentName": "A.R.Amhar Ahamed"
+        },
+        {
+          "round": 14,
+          "id": "11",
+          "name": "Sandeki De Silva",
+          "result": "W",
+          "score": 255,
+          "oppScore": 242,
+          "opponentId": "51",
+          "spread": 13,
+          "opponentName": "N.T.Ruwanara Sesathree Nagahawatta"
         }
       ]
     },
@@ -1632,7 +1753,7 @@
           "oppScore": 385,
           "opponentId": "38",
           "spread": -166,
-          "opponentName": "Arianna Sirisena"
+          "opponentName": "Arianna Sirisena (#38)"
         },
         {
           "round": 2,
@@ -1758,13 +1879,24 @@
         {
           "round": 13,
           "id": "12",
-          "name": "Risara Kannangara",
+          "name": "Risara Kannangara (#12)",
           "result": "W",
           "score": 430,
           "oppScore": 322,
           "opponentId": "21",
           "spread": 108,
           "opponentName": "A.B.V.Jayaweera"
+        },
+        {
+          "round": 14,
+          "id": "12",
+          "name": "Risara Kannangara",
+          "result": "L",
+          "score": 331,
+          "oppScore": 481,
+          "opponentId": "8",
+          "spread": -150,
+          "opponentName": "Fathima Muhammad"
         }
       ]
     },
@@ -1907,13 +2039,24 @@
         {
           "round": 13,
           "id": "13",
-          "name": "Krishiv Prasath",
+          "name": "Krishiv Prasath (#13)",
           "result": "L",
           "score": 354,
           "oppScore": 363,
           "opponentId": "46",
           "spread": -9,
           "opponentName": "Nethula Wijekoon"
+        },
+        {
+          "round": 14,
+          "id": "13",
+          "name": "Krishiv Prasath",
+          "result": "W",
+          "score": 386,
+          "oppScore": 299,
+          "opponentId": "18",
+          "spread": 87,
+          "opponentName": "Aabidh Hassan"
         }
       ]
     },
@@ -2029,7 +2172,7 @@
           "oppScore": 378,
           "opponentId": "38",
           "spread": -97,
-          "opponentName": "Arianna Sirisena"
+          "opponentName": "Arianna Sirisena (#38)"
         },
         {
           "round": 11,
@@ -2056,13 +2199,24 @@
         {
           "round": 13,
           "id": "14",
-          "name": "Neha Marso",
+          "name": "Neha Marso (#14)",
           "result": "L",
           "score": 321,
           "oppScore": 442,
           "opponentId": "52",
           "spread": -121,
           "opponentName": "Chanima Ranlee Jayaratne"
+        },
+        {
+          "round": 14,
+          "id": "14",
+          "name": "Neha Marso",
+          "result": "W",
+          "score": 403,
+          "oppScore": 210,
+          "opponentId": "49",
+          "spread": 193,
+          "opponentName": "Dona Inuli Dehansa Asalage"
         }
       ]
     },
@@ -2205,13 +2359,24 @@
         {
           "round": 13,
           "id": "15",
-          "name": "Kavinaya Nagules",
+          "name": "Kavinaya Nagules (#15)",
           "result": "W",
           "score": 503,
           "oppScore": 314,
           "opponentId": "32",
           "spread": 189,
           "opponentName": "D. A. Senithu Dithnal Dalugoda"
+        },
+        {
+          "round": 14,
+          "id": "15",
+          "name": "Kavinaya Nagules",
+          "result": "L",
+          "score": 236,
+          "oppScore": 444,
+          "opponentId": "40",
+          "spread": -208,
+          "opponentName": "Salma Khalid"
         }
       ]
     },
@@ -2272,7 +2437,7 @@
           "oppScore": 268,
           "opponentId": "36",
           "spread": 222,
-          "opponentName": "Aditha Medagoda (#36)"
+          "opponentName": "Aditha Medagoda"
         },
         {
           "round": 12,
@@ -2288,13 +2453,24 @@
         {
           "round": 13,
           "id": "16",
-          "name": "Gesandu Samarasekere",
+          "name": "Gesandu Samarasekere (#16)",
           "result": "W",
           "score": 426,
           "oppScore": 363,
           "opponentId": "26",
           "spread": 63,
           "opponentName": "Dylan Roshan"
+        },
+        {
+          "round": 14,
+          "id": "16",
+          "name": "Gesandu Samarasekere",
+          "result": "L",
+          "score": 330,
+          "oppScore": 468,
+          "opponentId": "10",
+          "spread": -138,
+          "opponentName": "Dulin Sandes Fernando"
         }
       ]
     },
@@ -2437,13 +2613,24 @@
         {
           "round": 13,
           "id": "17",
-          "name": "Rashane De' Almeida",
+          "name": "Rashane De' Almeida (#17)",
           "result": "W",
           "score": 367,
           "oppScore": 256,
           "opponentId": "20",
           "spread": 111,
           "opponentName": "A.C.Y.Jayaweera"
+        },
+        {
+          "round": 14,
+          "id": "17",
+          "name": "Rashane De' Almeida",
+          "result": "W",
+          "score": 508,
+          "oppScore": 264,
+          "opponentId": "5",
+          "spread": 244,
+          "opponentName": "Kenuli Hasindya Kariyawasam"
         }
       ]
     },
@@ -2460,7 +2647,7 @@
           "oppScore": 295,
           "opponentId": "36",
           "spread": 177,
-          "opponentName": "Aditha Medagoda (#36)"
+          "opponentName": "Aditha Medagoda"
         },
         {
           "round": 2,
@@ -2526,7 +2713,7 @@
           "oppScore": 350,
           "opponentId": "38",
           "spread": -65,
-          "opponentName": "Arianna Sirisena"
+          "opponentName": "Arianna Sirisena (#38)"
         },
         {
           "round": 8,
@@ -2586,13 +2773,24 @@
         {
           "round": 13,
           "id": "18",
-          "name": "Aabidh Hassan",
+          "name": "Aabidh Hassan (#18)",
           "result": "L",
           "score": 370,
           "oppScore": 450,
           "opponentId": "33",
           "spread": -80,
           "opponentName": "Vihanga Premaratne"
+        },
+        {
+          "round": 14,
+          "id": "18",
+          "name": "Aabidh Hassan",
+          "result": "L",
+          "score": 299,
+          "oppScore": 386,
+          "opponentId": "13",
+          "spread": -87,
+          "opponentName": "Krishiv Prasath"
         }
       ]
     },
@@ -2735,13 +2933,24 @@
         {
           "round": 13,
           "id": "19",
-          "name": "Kisandu Nimthula Kumarage",
+          "name": "Kisandu Nimthula Kumarage (#19)",
           "result": "L",
           "score": 281,
           "oppScore": 331,
           "opponentId": "41",
           "spread": -50,
           "opponentName": "Ayod Induvara Wijewickrama"
+        },
+        {
+          "round": 14,
+          "id": "19",
+          "name": "Kisandu Nimthula Kumarage",
+          "result": "L",
+          "score": 348,
+          "oppScore": 476,
+          "opponentId": "9",
+          "spread": -128,
+          "opponentName": "NETHUMI PIYATISSA"
         }
       ]
     },
@@ -2884,13 +3093,24 @@
         {
           "round": 13,
           "id": "20",
-          "name": "A.C.Y.Jayaweera",
+          "name": "A.C.Y.Jayaweera (#20)",
           "result": "L",
           "score": 256,
           "oppScore": 367,
           "opponentId": "17",
           "spread": -111,
           "opponentName": "Rashane De' Almeida"
+        },
+        {
+          "round": 14,
+          "id": "20",
+          "name": "A.C.Y.Jayaweera",
+          "result": "W",
+          "score": 388,
+          "oppScore": 297,
+          "opponentId": "35",
+          "spread": 91,
+          "opponentName": "Miyasi Premaratne"
         }
       ]
     },
@@ -2929,7 +3149,7 @@
           "oppScore": 383,
           "opponentId": "38",
           "spread": -51,
-          "opponentName": "Arianna Sirisena"
+          "opponentName": "Arianna Sirisena (#38)"
         },
         {
           "round": 4,
@@ -3017,7 +3237,7 @@
           "oppScore": 417,
           "opponentId": "38",
           "spread": -117,
-          "opponentName": "Arianna Sirisena"
+          "opponentName": "Arianna Sirisena (#38)"
         },
         {
           "round": 12,
@@ -3033,13 +3253,24 @@
         {
           "round": 13,
           "id": "21",
-          "name": "A.B.V.Jayaweera",
+          "name": "A.B.V.Jayaweera (#21)",
           "result": "L",
           "score": 322,
           "oppScore": 430,
           "opponentId": "12",
           "spread": -108,
           "opponentName": "Risara Kannangara"
+        },
+        {
+          "round": 14,
+          "id": "21",
+          "name": "A.B.V.Jayaweera",
+          "result": "W",
+          "score": 331,
+          "oppScore": 310,
+          "opponentId": "28",
+          "spread": 21,
+          "opponentName": "Sandakalee Herath"
         }
       ]
     },
@@ -3171,13 +3402,24 @@
         {
           "round": 13,
           "id": "22",
-          "name": "M L Yuhas Chanulaka Liyanage",
+          "name": "M L Yuhas Chanulaka Liyanage (#22)",
           "result": "L",
           "score": 260,
           "oppScore": 409,
           "opponentId": "3",
           "spread": -149,
           "opponentName": "Tehash Kodikara"
+        },
+        {
+          "round": 14,
+          "id": "22",
+          "name": "M L Yuhas Chanulaka Liyanage",
+          "result": "W",
+          "score": 271,
+          "oppScore": 251,
+          "opponentId": "1",
+          "spread": 20,
+          "opponentName": "S A D Dewnith"
         }
       ]
     },
@@ -3320,13 +3562,24 @@
         {
           "round": 13,
           "id": "23",
-          "name": "Dinuki Abayakoon",
+          "name": "Dinuki Abayakoon (#23)",
           "result": "L",
           "score": 277,
           "oppScore": 439,
           "opponentId": "50",
           "spread": -162,
           "opponentName": "Welihena Gamage Pabaji Esanya"
+        },
+        {
+          "round": 14,
+          "id": "23",
+          "name": "Dinuki Abayakoon",
+          "result": "L",
+          "score": 267,
+          "oppScore": 279,
+          "opponentId": "24",
+          "spread": -12,
+          "opponentName": "Aranya Tennakoon"
         }
       ]
     },
@@ -3469,13 +3722,24 @@
         {
           "round": 13,
           "id": "24",
-          "name": "Aranya Tennakoon",
+          "name": "Aranya Tennakoon (#24)",
           "result": "W",
           "score": 367,
           "oppScore": 309,
           "opponentId": "37",
           "spread": 58,
           "opponentName": "Sarah Omar"
+        },
+        {
+          "round": 14,
+          "id": "24",
+          "name": "Aranya Tennakoon",
+          "result": "W",
+          "score": 279,
+          "oppScore": 267,
+          "opponentId": "23",
+          "spread": 12,
+          "opponentName": "Dinuki Abayakoon"
         }
       ]
     },
@@ -3613,18 +3877,29 @@
           "oppScore": 229,
           "opponentId": "36",
           "spread": 200,
-          "opponentName": "Aditha Medagoda (#36)"
+          "opponentName": "Aditha Medagoda"
         },
         {
           "round": 13,
           "id": "25",
-          "name": "Atarah Roshan",
+          "name": "Atarah Roshan (#25)",
           "result": "W",
           "score": 450,
           "oppScore": 345,
           "opponentId": "54",
           "spread": 105,
           "opponentName": "Bosandi Nesathma Sumanasekara"
+        },
+        {
+          "round": 14,
+          "id": "25",
+          "name": "Atarah Roshan",
+          "result": "L",
+          "score": 334,
+          "oppScore": 369,
+          "opponentId": "31",
+          "spread": -35,
+          "opponentName": "Nevan Ramanayake"
         }
       ]
     },
@@ -3740,7 +4015,7 @@
           "oppScore": 292,
           "opponentId": "36",
           "spread": 81,
-          "opponentName": "Aditha Medagoda (#36)"
+          "opponentName": "Aditha Medagoda"
         },
         {
           "round": 11,
@@ -3767,13 +4042,24 @@
         {
           "round": 13,
           "id": "26",
-          "name": "Dylan Roshan",
+          "name": "Dylan Roshan (#26)",
           "result": "L",
           "score": 363,
           "oppScore": 426,
           "opponentId": "16",
           "spread": -63,
           "opponentName": "Gesandu Samarasekere"
+        },
+        {
+          "round": 14,
+          "id": "26",
+          "name": "Dylan Roshan",
+          "result": "L",
+          "score": 285,
+          "oppScore": 291,
+          "opponentId": "52",
+          "spread": -6,
+          "opponentName": "Chanima Ranlee Jayaratne"
         }
       ]
     },
@@ -3845,7 +4131,7 @@
           "oppScore": 381,
           "opponentId": "38",
           "spread": 11,
-          "opponentName": "Arianna Sirisena"
+          "opponentName": "Arianna Sirisena (#38)"
         },
         {
           "round": 7,
@@ -4010,13 +4296,24 @@
         {
           "round": 13,
           "id": "28",
-          "name": "Sandakalee Herath",
+          "name": "Sandakalee Herath (#28)",
           "result": "W",
           "score": 333,
           "oppScore": 253,
           "opponentId": "2",
           "spread": 80,
           "opponentName": "Iranya Bulankulame"
+        },
+        {
+          "round": 14,
+          "id": "28",
+          "name": "Sandakalee Herath",
+          "result": "L",
+          "score": 310,
+          "oppScore": 331,
+          "opponentId": "21",
+          "spread": -21,
+          "opponentName": "A.B.V.Jayaweera"
         }
       ]
     },
@@ -4148,13 +4445,24 @@
         {
           "round": 13,
           "id": "29",
-          "name": "Bingun Bawanidu Jayasekera",
+          "name": "Bingun Bawanidu Jayasekera (#29)",
           "result": "L",
           "score": 277,
           "oppScore": 361,
           "opponentId": "49",
           "spread": -84,
           "opponentName": "Dona Inuli Dehansa Asalage"
+        },
+        {
+          "round": 14,
+          "id": "29",
+          "name": "Bingun Bawanidu Jayasekera",
+          "result": "L",
+          "score": 272,
+          "oppScore": 380,
+          "opponentId": "54",
+          "spread": -108,
+          "opponentName": "Bosandi Nesathma Sumanasekara"
         }
       ]
     },
@@ -4292,18 +4600,29 @@
           "oppScore": 322,
           "opponentId": "38",
           "spread": 82,
-          "opponentName": "Arianna Sirisena"
+          "opponentName": "Arianna Sirisena (#38)"
         },
         {
           "round": 13,
           "id": "30",
-          "name": "Janiru Imandiv Jayawardhana",
+          "name": "Janiru Imandiv Jayawardhana (#30)",
           "result": "W",
           "score": 350,
           "oppScore": 338,
           "opponentId": "10",
           "spread": 12,
           "opponentName": "Dulin Sandes Fernando"
+        },
+        {
+          "round": 14,
+          "id": "30",
+          "name": "Janiru Imandiv Jayawardhana",
+          "result": "L",
+          "score": 382,
+          "oppScore": 405,
+          "opponentId": "46",
+          "spread": -23,
+          "opponentName": "Nethula Wijekoon"
         }
       ]
     },
@@ -4446,13 +4765,24 @@
         {
           "round": 13,
           "id": "31",
-          "name": "Nevan Ramanayake",
+          "name": "Nevan Ramanayake (#31)",
           "result": "L",
           "score": 311,
           "oppScore": 422,
           "opponentId": "35",
           "spread": -111,
           "opponentName": "Miyasi Premaratne"
+        },
+        {
+          "round": 14,
+          "id": "31",
+          "name": "Nevan Ramanayake",
+          "result": "W",
+          "score": 369,
+          "oppScore": 334,
+          "opponentId": "25",
+          "spread": 35,
+          "opponentName": "Atarah Roshan"
         }
       ]
     },
@@ -4595,13 +4925,24 @@
         {
           "round": 13,
           "id": "32",
-          "name": "D. A. Senithu Dithnal Dalugoda",
+          "name": "D. A. Senithu Dithnal Dalugoda (#32)",
           "result": "L",
           "score": 314,
           "oppScore": 503,
           "opponentId": "15",
           "spread": -189,
           "opponentName": "Kavinaya Nagules"
+        },
+        {
+          "round": 14,
+          "id": "32",
+          "name": "D. A. Senithu Dithnal Dalugoda",
+          "result": "W",
+          "score": 340,
+          "oppScore": 239,
+          "opponentId": "53",
+          "spread": 101,
+          "opponentName": "A.R.Amhar Ahamed"
         }
       ]
     },
@@ -4662,7 +5003,7 @@
           "oppScore": 359,
           "opponentId": "38",
           "spread": -33,
-          "opponentName": "Arianna Sirisena"
+          "opponentName": "Arianna Sirisena (#38)"
         },
         {
           "round": 6,
@@ -4744,13 +5085,24 @@
         {
           "round": 13,
           "id": "33",
-          "name": "Vihanga Premaratne",
+          "name": "Vihanga Premaratne (#33)",
           "result": "W",
           "score": 450,
           "oppScore": 370,
           "opponentId": "18",
           "spread": 80,
           "opponentName": "Aabidh Hassan"
+        },
+        {
+          "round": 14,
+          "id": "33",
+          "name": "Vihanga Premaratne",
+          "result": "L",
+          "score": 410,
+          "oppScore": 419,
+          "opponentId": "41",
+          "spread": -9,
+          "opponentName": "Ayod Induvara Wijewickrama"
         }
       ]
     },
@@ -4893,13 +5245,24 @@
         {
           "round": 13,
           "id": "34",
-          "name": "Nadithie Liyanage",
+          "name": "Nadithie Liyanage (#34)",
           "result": "L",
           "score": 304,
           "oppScore": 401,
           "opponentId": "6",
           "spread": -97,
           "opponentName": "W.M. Ayansa Methdini Gunathilaka"
+        },
+        {
+          "round": 14,
+          "id": "34",
+          "name": "Nadithie Liyanage",
+          "result": "W",
+          "score": 372,
+          "oppScore": 266,
+          "opponentId": "45",
+          "spread": 106,
+          "opponentName": "Sadevnee Sasethma Jayasinghe"
         }
       ]
     },
@@ -5042,13 +5405,24 @@
         {
           "round": 13,
           "id": "35",
-          "name": "Miyasi Premaratne",
+          "name": "Miyasi Premaratne (#35)",
           "result": "W",
           "score": 422,
           "oppScore": 311,
           "opponentId": "31",
           "spread": 111,
           "opponentName": "Nevan Ramanayake"
+        },
+        {
+          "round": 14,
+          "id": "35",
+          "name": "Miyasi Premaratne",
+          "result": "L",
+          "score": 297,
+          "oppScore": 388,
+          "opponentId": "20",
+          "spread": -91,
+          "opponentName": "A.C.Y.Jayaweera"
         }
       ]
     },
@@ -5187,6 +5561,17 @@
           "opponentId": "25",
           "spread": -200,
           "opponentName": "Atarah Roshan"
+        },
+        {
+          "round": 14,
+          "id": "36",
+          "name": "Aditha Medagoda",
+          "result": "L",
+          "score": 221,
+          "oppScore": 253,
+          "opponentId": "47",
+          "spread": -32,
+          "opponentName": "Hollupathirage Eleesha Uppachala Caldera"
         }
       ]
     },
@@ -5280,7 +5665,7 @@
           "oppScore": 291,
           "opponentId": "36",
           "spread": -61,
-          "opponentName": "Aditha Medagoda (#36)"
+          "opponentName": "Aditha Medagoda"
         },
         {
           "round": 9,
@@ -5329,13 +5714,24 @@
         {
           "round": 13,
           "id": "37",
-          "name": "Sarah Omar",
+          "name": "Sarah Omar (#37)",
           "result": "L",
           "score": 309,
           "oppScore": 367,
           "opponentId": "24",
           "spread": -58,
           "opponentName": "Aranya Tennakoon"
+        },
+        {
+          "round": 14,
+          "id": "37",
+          "name": "Sarah Omar",
+          "result": "L",
+          "score": 250,
+          "oppScore": 454,
+          "opponentId": "42",
+          "spread": -204,
+          "opponentName": "Oshadha Mithradeva"
         }
       ]
     },
@@ -5478,7 +5874,7 @@
         {
           "round": 13,
           "id": "38",
-          "name": "Arianna Sirisena",
+          "name": "Arianna Sirisena (#38)",
           "result": "L",
           "score": 75,
           "oppScore": 150,
@@ -5627,13 +6023,24 @@
         {
           "round": 13,
           "id": "39",
-          "name": "Saveen Randheeraka Wanigasekara",
+          "name": "Saveen Randheeraka Wanigasekara (#39)",
           "result": "L",
           "score": 428,
           "oppScore": 478,
           "opponentId": "8",
           "spread": -50,
           "opponentName": "Fathima Muhammad"
+        },
+        {
+          "round": 14,
+          "id": "39",
+          "name": "Saveen Randheeraka Wanigasekara",
+          "result": "W",
+          "score": 467,
+          "oppScore": 381,
+          "opponentId": "48",
+          "spread": 86,
+          "opponentName": "Don Sethum Ranudisa Asalage"
         }
       ]
     },
@@ -5776,13 +6183,24 @@
         {
           "round": 13,
           "id": "40",
-          "name": "Salma Khalid",
+          "name": "Salma Khalid (#40)",
           "result": "L",
           "score": 389,
           "oppScore": 391,
           "opponentId": "9",
           "spread": -2,
           "opponentName": "NETHUMI PIYATISSA"
+        },
+        {
+          "round": 14,
+          "id": "40",
+          "name": "Salma Khalid",
+          "result": "W",
+          "score": 444,
+          "oppScore": 236,
+          "opponentId": "15",
+          "spread": 208,
+          "opponentName": "Kavinaya Nagules"
         }
       ]
     },
@@ -5876,7 +6294,7 @@
           "oppScore": 301,
           "opponentId": "38",
           "spread": 91,
-          "opponentName": "Arianna Sirisena"
+          "opponentName": "Arianna Sirisena (#38)"
         },
         {
           "round": 9,
@@ -5925,13 +6343,24 @@
         {
           "round": 13,
           "id": "41",
-          "name": "Ayod Induvara Wijewickrama",
+          "name": "Ayod Induvara Wijewickrama (#41)",
           "result": "W",
           "score": 331,
           "oppScore": 281,
           "opponentId": "19",
           "spread": 50,
           "opponentName": "Kisandu Nimthula Kumarage"
+        },
+        {
+          "round": 14,
+          "id": "41",
+          "name": "Ayod Induvara Wijewickrama",
+          "result": "W",
+          "score": 419,
+          "oppScore": 410,
+          "opponentId": "33",
+          "spread": 9,
+          "opponentName": "Vihanga Premaratne"
         }
       ]
     },
@@ -5959,7 +6388,7 @@
           "oppScore": 312,
           "opponentId": "36",
           "spread": 136,
-          "opponentName": "Aditha Medagoda (#36)"
+          "opponentName": "Aditha Medagoda"
         },
         {
           "round": 3,
@@ -6074,13 +6503,24 @@
         {
           "round": 13,
           "id": "42",
-          "name": "Oshadha Mithradeva",
+          "name": "Oshadha Mithradeva (#42)",
           "result": "L",
           "score": 225,
           "oppScore": 396,
           "opponentId": "51",
           "spread": -171,
           "opponentName": "N.T.Ruwanara Sesathree Nagahawatta"
+        },
+        {
+          "round": 14,
+          "id": "42",
+          "name": "Oshadha Mithradeva",
+          "result": "W",
+          "score": 454,
+          "oppScore": 250,
+          "opponentId": "37",
+          "spread": 204,
+          "opponentName": "Sarah Omar"
         }
       ]
     },
@@ -6212,13 +6652,24 @@
         {
           "round": 13,
           "id": "43",
-          "name": "Sayul Heenduwa",
+          "name": "Sayul Heenduwa (#43)",
           "result": "L",
           "score": 152,
           "oppScore": 161,
           "opponentId": "4",
           "spread": -9,
           "opponentName": "M. Kalan Hasmitha"
+        },
+        {
+          "round": 14,
+          "id": "43",
+          "name": "Sayul Heenduwa",
+          "result": "W",
+          "score": 164,
+          "oppScore": 160,
+          "opponentId": "55",
+          "spread": 4,
+          "opponentName": "H..M Kemidu Sanmira Perera"
         }
       ]
     },
@@ -6301,7 +6752,7 @@
           "oppScore": 306,
           "opponentId": "36",
           "spread": -115,
-          "opponentName": "Aditha Medagoda (#36)"
+          "opponentName": "Aditha Medagoda"
         },
         {
           "round": 8,
@@ -6350,13 +6801,24 @@
         {
           "round": 13,
           "id": "44",
-          "name": "Umar Rushdie",
+          "name": "Umar Rushdie (#44)",
           "result": "L",
           "score": 274,
           "oppScore": 324,
           "opponentId": "1",
           "spread": -50,
           "opponentName": "S A D Dewnith"
+        },
+        {
+          "round": 14,
+          "id": "44",
+          "name": "Umar Rushdie",
+          "result": "W",
+          "score": 293,
+          "oppScore": 274,
+          "opponentId": "57",
+          "spread": 19,
+          "opponentName": "Seniru Yugeeth Perera"
         }
       ]
     },
@@ -6499,13 +6961,24 @@
         {
           "round": 13,
           "id": "45",
-          "name": "Sadevnee Sasethma Jayasinghe",
+          "name": "Sadevnee Sasethma Jayasinghe (#45)",
           "result": "L",
           "score": 350,
           "oppScore": 401,
           "opponentId": "48",
           "spread": -51,
           "opponentName": "Don Sethum Ranudisa Asalage"
+        },
+        {
+          "round": 14,
+          "id": "45",
+          "name": "Sadevnee Sasethma Jayasinghe",
+          "result": "L",
+          "score": 266,
+          "oppScore": 372,
+          "opponentId": "34",
+          "spread": -106,
+          "opponentName": "Nadithie Liyanage"
         }
       ]
     },
@@ -6648,13 +7121,24 @@
         {
           "round": 13,
           "id": "46",
-          "name": "Nethula Wijekoon",
+          "name": "Nethula Wijekoon (#46)",
           "result": "W",
           "score": 363,
           "oppScore": 354,
           "opponentId": "13",
           "spread": 9,
           "opponentName": "Krishiv Prasath"
+        },
+        {
+          "round": 14,
+          "id": "46",
+          "name": "Nethula Wijekoon",
+          "result": "W",
+          "score": 405,
+          "oppScore": 382,
+          "opponentId": "30",
+          "spread": 23,
+          "opponentName": "Janiru Imandiv Jayawardhana"
         }
       ]
     },
@@ -6704,7 +7188,7 @@
           "oppScore": 382,
           "opponentId": "36",
           "spread": -152,
-          "opponentName": "Aditha Medagoda (#36)"
+          "opponentName": "Aditha Medagoda"
         },
         {
           "round": 5,
@@ -6797,13 +7281,24 @@
         {
           "round": 13,
           "id": "47",
-          "name": "Hollupathirage Eleesha Uppachala Caldera",
+          "name": "Hollupathirage Eleesha Uppachala Caldera (#47)",
           "result": "W",
           "score": 250,
           "oppScore": 232,
           "opponentId": "59",
           "spread": 18,
           "opponentName": "T.M. ABEYRATHNA"
+        },
+        {
+          "round": 14,
+          "id": "47",
+          "name": "Hollupathirage Eleesha Uppachala Caldera",
+          "result": "W",
+          "score": 253,
+          "oppScore": 221,
+          "opponentId": "36",
+          "spread": 32,
+          "opponentName": "Aditha Medagoda"
         }
       ]
     },
@@ -6946,13 +7441,24 @@
         {
           "round": 13,
           "id": "48",
-          "name": "Don Sethum Ranudisa Asalage",
+          "name": "Don Sethum Ranudisa Asalage (#48)",
           "result": "W",
           "score": 401,
           "oppScore": 350,
           "opponentId": "45",
           "spread": 51,
           "opponentName": "Sadevnee Sasethma Jayasinghe"
+        },
+        {
+          "round": 14,
+          "id": "48",
+          "name": "Don Sethum Ranudisa Asalage",
+          "result": "L",
+          "score": 381,
+          "oppScore": 467,
+          "opponentId": "39",
+          "spread": -86,
+          "opponentName": "Saveen Randheeraka Wanigasekara"
         }
       ]
     },
@@ -7084,13 +7590,24 @@
         {
           "round": 13,
           "id": "49",
-          "name": "Dona Inuli Dehansa Asalage",
+          "name": "Dona Inuli Dehansa Asalage (#49)",
           "result": "W",
           "score": 361,
           "oppScore": 277,
           "opponentId": "29",
           "spread": 84,
           "opponentName": "Bingun Bawanidu Jayasekera"
+        },
+        {
+          "round": 14,
+          "id": "49",
+          "name": "Dona Inuli Dehansa Asalage",
+          "result": "L",
+          "score": 210,
+          "oppScore": 403,
+          "opponentId": "14",
+          "spread": -193,
+          "opponentName": "Neha Marso"
         }
       ]
     },
@@ -7233,13 +7750,24 @@
         {
           "round": 13,
           "id": "50",
-          "name": "Welihena Gamage Pabaji Esanya",
+          "name": "Welihena Gamage Pabaji Esanya (#50)",
           "result": "W",
           "score": 439,
           "oppScore": 277,
           "opponentId": "23",
           "spread": 162,
           "opponentName": "Dinuki Abayakoon"
+        },
+        {
+          "round": 14,
+          "id": "50",
+          "name": "Welihena Gamage Pabaji Esanya",
+          "result": "L",
+          "score": 289,
+          "oppScore": 334,
+          "opponentId": "56",
+          "spread": -45,
+          "opponentName": "Eleasha Dias"
         }
       ]
     },
@@ -7382,13 +7910,24 @@
         {
           "round": 13,
           "id": "51",
-          "name": "N.T.Ruwanara Sesathree Nagahawatta",
+          "name": "N.T.Ruwanara Sesathree Nagahawatta (#51)",
           "result": "W",
           "score": 396,
           "oppScore": 225,
           "opponentId": "42",
           "spread": 171,
           "opponentName": "Oshadha Mithradeva"
+        },
+        {
+          "round": 14,
+          "id": "51",
+          "name": "N.T.Ruwanara Sesathree Nagahawatta",
+          "result": "L",
+          "score": 242,
+          "oppScore": 255,
+          "opponentId": "11",
+          "spread": -13,
+          "opponentName": "Sandeki De Silva"
         }
       ]
     },
@@ -7531,13 +8070,24 @@
         {
           "round": 13,
           "id": "52",
-          "name": "Chanima Ranlee Jayaratne",
+          "name": "Chanima Ranlee Jayaratne (#52)",
           "result": "W",
           "score": 442,
           "oppScore": 321,
           "opponentId": "14",
           "spread": 121,
           "opponentName": "Neha Marso"
+        },
+        {
+          "round": 14,
+          "id": "52",
+          "name": "Chanima Ranlee Jayaratne",
+          "result": "W",
+          "score": 291,
+          "oppScore": 285,
+          "opponentId": "26",
+          "spread": 6,
+          "opponentName": "Dylan Roshan"
         }
       ]
     },
@@ -7642,7 +8192,7 @@
           "oppScore": 219,
           "opponentId": "36",
           "spread": 217,
-          "opponentName": "Aditha Medagoda (#36)"
+          "opponentName": "Aditha Medagoda"
         },
         {
           "round": 10,
@@ -7680,13 +8230,24 @@
         {
           "round": 13,
           "id": "53",
-          "name": "A.R.Amhar Ahamed",
+          "name": "A.R.Amhar Ahamed (#53)",
           "result": "W",
           "score": 378,
           "oppScore": 341,
           "opponentId": "11",
           "spread": 37,
           "opponentName": "Sandeki De Silva"
+        },
+        {
+          "round": 14,
+          "id": "53",
+          "name": "A.R.Amhar Ahamed",
+          "result": "L",
+          "score": 239,
+          "oppScore": 340,
+          "opponentId": "32",
+          "spread": -101,
+          "opponentName": "D. A. Senithu Dithnal Dalugoda"
         }
       ]
     },
@@ -7818,13 +8379,24 @@
         {
           "round": 13,
           "id": "54",
-          "name": "Bosandi Nesathma Sumanasekara",
+          "name": "Bosandi Nesathma Sumanasekara (#54)",
           "result": "L",
           "score": 345,
           "oppScore": 450,
           "opponentId": "25",
           "spread": -105,
           "opponentName": "Atarah Roshan"
+        },
+        {
+          "round": 14,
+          "id": "54",
+          "name": "Bosandi Nesathma Sumanasekara",
+          "result": "W",
+          "score": 380,
+          "oppScore": 272,
+          "opponentId": "29",
+          "spread": 108,
+          "opponentName": "Bingun Bawanidu Jayasekera"
         }
       ]
     },
@@ -7956,13 +8528,24 @@
         {
           "round": 13,
           "id": "55",
-          "name": "H..M Kemidu Sanmira Perera",
+          "name": "H..M Kemidu Sanmira Perera (#55)",
           "result": "L",
           "score": 270,
           "oppScore": 292,
           "opponentId": "57",
           "spread": -22,
           "opponentName": "Seniru Yugeeth Perera"
+        },
+        {
+          "round": 14,
+          "id": "55",
+          "name": "H..M Kemidu Sanmira Perera",
+          "result": "L",
+          "score": 160,
+          "oppScore": 164,
+          "opponentId": "43",
+          "spread": -4,
+          "opponentName": "Sayul Heenduwa"
         }
       ]
     },
@@ -8001,7 +8584,7 @@
           "oppScore": 61,
           "opponentId": "36",
           "spread": 185,
-          "opponentName": "Aditha Medagoda (#36)"
+          "opponentName": "Aditha Medagoda"
         },
         {
           "round": 4,
@@ -8067,7 +8650,7 @@
           "oppScore": 199,
           "opponentId": "38",
           "spread": 27,
-          "opponentName": "Arianna Sirisena"
+          "opponentName": "Arianna Sirisena (#38)"
         },
         {
           "round": 10,
@@ -8105,13 +8688,24 @@
         {
           "round": 13,
           "id": "56",
-          "name": "Eleasha Dias",
+          "name": "Eleasha Dias (#56)",
           "result": "L",
           "score": 370,
           "oppScore": 413,
           "opponentId": "7",
           "spread": -43,
           "opponentName": "Mayabandara Jayasekara Mudiyanselage Adithya Lankesh Mayabandara"
+        },
+        {
+          "round": 14,
+          "id": "56",
+          "name": "Eleasha Dias",
+          "result": "W",
+          "score": 334,
+          "oppScore": 289,
+          "opponentId": "50",
+          "spread": 45,
+          "opponentName": "Welihena Gamage Pabaji Esanya"
         }
       ]
     },
@@ -8172,7 +8766,7 @@
           "oppScore": 316,
           "opponentId": "36",
           "spread": -71,
-          "opponentName": "Aditha Medagoda (#36)"
+          "opponentName": "Aditha Medagoda"
         },
         {
           "round": 7,
@@ -8243,13 +8837,24 @@
         {
           "round": 13,
           "id": "57",
-          "name": "Seniru Yugeeth Perera",
+          "name": "Seniru Yugeeth Perera (#57)",
           "result": "W",
           "score": 292,
           "oppScore": 270,
           "opponentId": "55",
           "spread": 22,
           "opponentName": "H..M Kemidu Sanmira Perera"
+        },
+        {
+          "round": 14,
+          "id": "57",
+          "name": "Seniru Yugeeth Perera",
+          "result": "L",
+          "score": 274,
+          "oppScore": 293,
+          "opponentId": "44",
+          "spread": -19,
+          "opponentName": "Umar Rushdie"
         }
       ]
     },
@@ -8392,13 +8997,24 @@
         {
           "round": 13,
           "id": "59",
-          "name": "T.M. ABEYRATHNA",
+          "name": "T.M. ABEYRATHNA (#59)",
           "result": "L",
           "score": 232,
           "oppScore": 250,
           "opponentId": "47",
           "spread": -18,
           "opponentName": "Hollupathirage Eleesha Uppachala Caldera"
+        },
+        {
+          "round": 14,
+          "id": "59",
+          "name": "T.M. ABEYRATHNA",
+          "result": "W",
+          "score": 340,
+          "oppScore": 217,
+          "opponentId": "4",
+          "spread": 123,
+          "opponentName": "M. Kalan Hasmitha"
         }
       ]
     }
