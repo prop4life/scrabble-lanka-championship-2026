@@ -1,55 +1,21 @@
 {
   "event": "plate",
-  "updated": "2026-08-25T04:14:11.894Z",
+  "updated": "2026-08-25T04:15:15.434Z",
   "players": {
     "A11": {
       "id": "A11",
       "name": "Kumari Goonesekere",
       "games": [
         {
-          "round": 4,
+          "round": 5,
           "id": "A11",
           "name": "Kumari Goonesekere",
           "result": "W",
-          "score": 387,
-          "oppScore": 294,
-          "opponentId": "A1",
-          "spread": 93,
-          "opponentName": "Wimal Fernando"
-        }
-      ]
-    },
-    "A13": {
-      "id": "A13",
-      "name": "Dammika Witharana",
-      "games": [
-        {
-          "round": 4,
-          "id": "A13",
-          "name": "Dammika Witharana",
-          "result": "W",
-          "score": 445,
-          "oppScore": 376,
-          "opponentId": "A5",
-          "spread": 69,
-          "opponentName": "Percy Fernando"
-        }
-      ]
-    },
-    "A8": {
-      "id": "A8",
-      "name": "Farida Akbarally",
-      "games": [
-        {
-          "round": 4,
-          "id": "A8",
-          "name": "Farida Akbarally",
-          "result": "W",
-          "score": 431,
-          "oppScore": 353,
-          "opponentId": "A7",
-          "spread": 78,
-          "opponentName": "Lalantha Amarasinghe"
+          "score": 468,
+          "oppScore": 358,
+          "opponentId": "A13",
+          "spread": 110,
+          "opponentName": "Dammika Witharana"
         }
       ]
     },
@@ -58,14 +24,65 @@
       "name": "Wimal Fernando",
       "games": [
         {
-          "round": 4,
+          "round": 5,
           "id": "A1",
           "name": "Wimal Fernando",
+          "result": "W",
+          "score": 481,
+          "oppScore": 308,
+          "opponentId": "A2",
+          "spread": 173,
+          "opponentName": "Lakshman Cooray"
+        }
+      ]
+    },
+    "A8": {
+      "id": "A8",
+      "name": "Farida Akbarally",
+      "games": [
+        {
+          "round": 5,
+          "id": "A8",
+          "name": "Farida Akbarally",
+          "result": "W",
+          "score": 432,
+          "oppScore": 421,
+          "opponentId": "A14",
+          "spread": 11,
+          "opponentName": "Hema Abeysignhe"
+        }
+      ]
+    },
+    "A4": {
+      "id": "A4",
+      "name": "Priya Fernando",
+      "games": [
+        {
+          "round": 5,
+          "id": "A4",
+          "name": "Priya Fernando",
+          "result": "W",
+          "score": 456,
+          "oppScore": 261,
+          "opponentId": "A5",
+          "spread": 195,
+          "opponentName": "Percy Fernando"
+        }
+      ]
+    },
+    "A13": {
+      "id": "A13",
+      "name": "Dammika Witharana",
+      "games": [
+        {
+          "round": 5,
+          "id": "A13",
+          "name": "Dammika Witharana",
           "result": "L",
-          "score": 294,
-          "oppScore": 387,
+          "score": 358,
+          "oppScore": 468,
           "opponentId": "A11",
-          "spread": -93,
+          "spread": -110,
           "opponentName": "Kumari Goonesekere"
         }
       ]
@@ -75,66 +92,15 @@
       "name": "Hema Abeysignhe",
       "games": [
         {
-          "round": 4,
+          "round": 5,
           "id": "A14",
           "name": "Hema Abeysignhe",
-          "result": "W",
-          "score": 456,
-          "oppScore": 390,
-          "opponentId": "A4",
-          "spread": 66,
-          "opponentName": "Priya Fernando"
-        }
-      ]
-    },
-    "A2": {
-      "id": "A2",
-      "name": "Lakshman Cooray",
-      "games": [
-        {
-          "round": 4,
-          "id": "A2",
-          "name": "Lakshman Cooray",
-          "result": "W",
-          "score": 485,
-          "oppScore": 326,
-          "opponentId": "A10",
-          "spread": 159,
-          "opponentName": "Preethi Perera"
-        }
-      ]
-    },
-    "A5": {
-      "id": "A5",
-      "name": "Percy Fernando",
-      "games": [
-        {
-          "round": 4,
-          "id": "A5",
-          "name": "Percy Fernando",
           "result": "L",
-          "score": 376,
-          "oppScore": 445,
-          "opponentId": "A13",
-          "spread": -69,
-          "opponentName": "Dammika Witharana"
-        }
-      ]
-    },
-    "A4": {
-      "id": "A4",
-      "name": "Priya Fernando",
-      "games": [
-        {
-          "round": 4,
-          "id": "A4",
-          "name": "Priya Fernando",
-          "result": "L",
-          "score": 390,
-          "oppScore": 456,
-          "opponentId": "A14",
-          "spread": -66,
-          "opponentName": "Hema Abeysignhe"
+          "score": 421,
+          "oppScore": 432,
+          "opponentId": "A8",
+          "spread": -11,
+          "opponentName": "Farida Akbarally"
         }
       ]
     },
@@ -143,15 +109,15 @@
       "name": "Indramali Cooray",
       "games": [
         {
-          "round": 4,
+          "round": 5,
           "id": "A3",
           "name": "Indramali Cooray",
           "result": "W",
-          "score": 424,
-          "oppScore": 296,
-          "opponentId": "A9",
-          "spread": 128,
-          "opponentName": "Neville Perera"
+          "score": 403,
+          "oppScore": 309,
+          "opponentId": "A10",
+          "spread": 94,
+          "opponentName": "Preethi Perera"
         }
       ]
     },
@@ -160,14 +126,65 @@
       "name": "K.M.K. Kulatunge",
       "games": [
         {
-          "round": 4,
+          "round": 5,
           "id": "A6",
           "name": "K.M.K. Kulatunge",
           "result": "W",
-          "score": 428,
-          "oppScore": 290,
+          "score": 475,
+          "oppScore": 295,
+          "opponentId": "A7",
+          "spread": 180,
+          "opponentName": "Lalantha Amarasinghe"
+        }
+      ]
+    },
+    "A2": {
+      "id": "A2",
+      "name": "Lakshman Cooray",
+      "games": [
+        {
+          "round": 5,
+          "id": "A2",
+          "name": "Lakshman Cooray",
+          "result": "L",
+          "score": 308,
+          "oppScore": 481,
+          "opponentId": "A1",
+          "spread": -173,
+          "opponentName": "Wimal Fernando"
+        }
+      ]
+    },
+    "A5": {
+      "id": "A5",
+      "name": "Percy Fernando",
+      "games": [
+        {
+          "round": 5,
+          "id": "A5",
+          "name": "Percy Fernando",
+          "result": "L",
+          "score": 261,
+          "oppScore": 456,
+          "opponentId": "A4",
+          "spread": -195,
+          "opponentName": "Priya Fernando"
+        }
+      ]
+    },
+    "A9": {
+      "id": "A9",
+      "name": "Neville Perera",
+      "games": [
+        {
+          "round": 5,
+          "id": "A9",
+          "name": "Neville Perera",
+          "result": "W",
+          "score": 354,
+          "oppScore": 313,
           "opponentId": "A12",
-          "spread": 138,
+          "spread": 41,
           "opponentName": "Peer Mohamed Firdhouse"
         }
       ]
@@ -177,15 +194,15 @@
       "name": "Lalantha Amarasinghe",
       "games": [
         {
-          "round": 4,
+          "round": 5,
           "id": "A7",
           "name": "Lalantha Amarasinghe",
           "result": "L",
-          "score": 353,
-          "oppScore": 431,
-          "opponentId": "A8",
-          "spread": -78,
-          "opponentName": "Farida Akbarally"
+          "score": 295,
+          "oppScore": 475,
+          "opponentId": "A6",
+          "spread": -180,
+          "opponentName": "K.M.K. Kulatunge"
         }
       ]
     },
@@ -194,31 +211,14 @@
       "name": "Preethi Perera",
       "games": [
         {
-          "round": 4,
+          "round": 5,
           "id": "A10",
           "name": "Preethi Perera",
           "result": "L",
-          "score": 326,
-          "oppScore": 485,
-          "opponentId": "A2",
-          "spread": -159,
-          "opponentName": "Lakshman Cooray"
-        }
-      ]
-    },
-    "A9": {
-      "id": "A9",
-      "name": "Neville Perera",
-      "games": [
-        {
-          "round": 4,
-          "id": "A9",
-          "name": "Neville Perera",
-          "result": "L",
-          "score": 296,
-          "oppScore": 424,
+          "score": 309,
+          "oppScore": 403,
           "opponentId": "A3",
-          "spread": -128,
+          "spread": -94,
           "opponentName": "Indramali Cooray"
         }
       ]
@@ -228,15 +228,15 @@
       "name": "Peer Mohamed Firdhouse",
       "games": [
         {
-          "round": 4,
+          "round": 5,
           "id": "A12",
           "name": "Peer Mohamed Firdhouse",
           "result": "L",
-          "score": 290,
-          "oppScore": 428,
-          "opponentId": "A6",
-          "spread": -138,
-          "opponentName": "K.M.K. Kulatunge"
+          "score": 313,
+          "oppScore": 354,
+          "opponentId": "A9",
+          "spread": -41,
+          "opponentName": "Neville Perera"
         }
       ]
     }
