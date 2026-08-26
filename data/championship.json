@@ -1,6 +1,6 @@
 {
   "event": "championship",
-  "updated": "2026-08-26T12:58:08.772Z",
+  "updated": "2026-08-26T14:15:43.418Z",
   "players": {
     "A58": {
       "id": "A58",
@@ -2452,12 +2452,12 @@
           "id": "A12",
           "name": "Nimuthu Witharana",
           "result": "L",
-          "score": 380,
+          "score": 390,
           "oppScore": 392,
           "opponentId": "A15",
-          "gameSpread": -12,
-          "spread": 236,
-          "standingsSpread": 236,
+          "gameSpread": -2,
+          "spread": 246,
+          "standingsSpread": 246,
           "opponentName": "Lalantha Amarasinghe"
         }
       ]
@@ -4667,11 +4667,11 @@
           "name": "Lalantha Amarasinghe",
           "result": "W",
           "score": 392,
-          "oppScore": 380,
+          "oppScore": 390,
           "opponentId": "A12",
-          "gameSpread": 12,
-          "spread": -7,
-          "standingsSpread": -7,
+          "gameSpread": 2,
+          "spread": -17,
+          "standingsSpread": -17,
           "opponentName": "Nimuthu Witharana"
         }
       ]
