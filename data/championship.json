@@ -1,6 +1,6 @@
 {
   "event": "championship",
-  "updated": "2026-08-26T05:02:22.205Z",
+  "updated": "2026-08-26T05:07:59.170Z",
   "players": {
     "A58": {
       "id": "A58",
@@ -51,9 +51,9 @@
           "name": "Kevan Croos",
           "result": "W",
           "score": 481,
-          "oppScore": 33,
+          "oppScore": 351,
           "opponentId": "A33",
-          "spread": 448,
+          "spread": 130,
           "opponentName": "Omiru Nandasiri"
         }
       ]
@@ -442,10 +442,10 @@
           "id": "A33",
           "name": "Omiru Nandasiri",
           "result": "L",
-          "score": 33,
+          "score": 351,
           "oppScore": 481,
           "opponentId": "A19",
-          "spread": -448,
+          "spread": -130,
           "opponentName": "Kevan Croos"
         }
       ]
