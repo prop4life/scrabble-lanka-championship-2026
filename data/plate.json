@@ -1,6 +1,6 @@
 {
   "event": "plate",
-  "updated": "2026-08-27T06:25:50.010Z",
+  "updated": "2026-08-27T07:23:37.038Z",
   "players": {
     "C4": {
       "id": "C4",
@@ -17,7 +17,7 @@
           "gameSpread": 280,
           "spread": 200,
           "standingsSpread": 200,
-          "opponentName": "M.W.G. Sethuki Kisakya (C23)"
+          "opponentName": "M.W.G. Sethuki Kisakya"
         },
         {
           "round": 2,
@@ -35,7 +35,7 @@
         {
           "round": 3,
           "id": "C4",
-          "name": "VIDUN NETHMIRA THIRIMANNA",
+          "name": "VIDUN NETHMIRA THIRIMANNA (C4)",
           "result": "W",
           "score": 498,
           "oppScore": 305,
@@ -44,6 +44,19 @@
           "spread": 371,
           "standingsSpread": 371,
           "opponentName": "Inudi S. W. Abeynayake"
+        },
+        {
+          "round": 4,
+          "id": "C4",
+          "name": "VIDUN NETHMIRA THIRIMANNA",
+          "result": "W",
+          "score": 411,
+          "oppScore": 340,
+          "opponentId": "C15",
+          "gameSpread": 71,
+          "spread": 442,
+          "standingsSpread": 442,
+          "opponentName": "P G Dewmi Vihanga"
         }
       ]
     },
@@ -62,7 +75,7 @@
           "gameSpread": 217,
           "spread": 200,
           "standingsSpread": 200,
-          "opponentName": "N K Senari Aradhya"
+          "opponentName": "N K Senari Aradhya (C8)"
         },
         {
           "round": 2,
@@ -80,7 +93,7 @@
         {
           "round": 3,
           "id": "C22",
-          "name": "Inudi S. W. Abeynayake",
+          "name": "Inudi S. W. Abeynayake (C22)",
           "result": "L",
           "score": 305,
           "oppScore": 498,
@@ -89,6 +102,19 @@
           "spread": -237,
           "standingsSpread": -237,
           "opponentName": "VIDUN NETHMIRA THIRIMANNA"
+        },
+        {
+          "round": 4,
+          "id": "C22",
+          "name": "Inudi S. W. Abeynayake",
+          "result": "L",
+          "score": 346,
+          "oppScore": 348,
+          "opponentId": "C6",
+          "gameSpread": -2,
+          "spread": -239,
+          "standingsSpread": -239,
+          "opponentName": "Hasandu Onadith Thirimanna"
         }
       ]
     },
@@ -125,7 +151,7 @@
         {
           "round": 3,
           "id": "C2",
-          "name": "Miyasi Premaratne",
+          "name": "Miyasi Premaratne (C2)",
           "result": "L",
           "score": 408,
           "oppScore": 468,
@@ -134,6 +160,19 @@
           "spread": 241,
           "standingsSpread": 241,
           "opponentName": "Sasmini Maddege"
+        },
+        {
+          "round": 4,
+          "id": "C2",
+          "name": "Miyasi Premaratne",
+          "result": "W",
+          "score": 488,
+          "oppScore": 270,
+          "opponentId": "C18",
+          "gameSpread": 218,
+          "spread": 459,
+          "standingsSpread": 459,
+          "opponentName": "Madduma Withanage Sanuri Chanupadee"
         }
       ]
     },
@@ -170,7 +209,7 @@
         {
           "round": 3,
           "id": "C14",
-          "name": "Sasmini Maddege",
+          "name": "Sasmini Maddege (C14)",
           "result": "W",
           "score": 468,
           "oppScore": 408,
@@ -179,6 +218,19 @@
           "spread": 599,
           "standingsSpread": 599,
           "opponentName": "Miyasi Premaratne"
+        },
+        {
+          "round": 4,
+          "id": "C14",
+          "name": "Sasmini Maddege",
+          "result": "W",
+          "score": 432,
+          "oppScore": 218,
+          "opponentId": "C12",
+          "gameSpread": 214,
+          "spread": 813,
+          "standingsSpread": 813,
+          "opponentName": "Sanuli Sehansa"
         }
       ]
     },
@@ -215,7 +267,7 @@
         {
           "round": 3,
           "id": "C16",
-          "name": "Akila Shenash Ranaweera",
+          "name": "Akila Shenash Ranaweera (C16)",
           "result": "L",
           "score": 304,
           "oppScore": 378,
@@ -223,6 +275,19 @@
           "gameSpread": -74,
           "spread": 443,
           "standingsSpread": 443,
+          "opponentName": "Risara Kendaragama"
+        },
+        {
+          "round": 4,
+          "id": "C16",
+          "name": "Akila Shenash Ranaweera",
+          "result": "L",
+          "score": 279,
+          "oppScore": 522,
+          "opponentId": "C20",
+          "gameSpread": -243,
+          "spread": 200,
+          "standingsSpread": 200,
           "opponentName": "Risara Kendaragama"
         }
       ]
@@ -260,7 +325,7 @@
         {
           "round": 3,
           "id": "C12",
-          "name": "Sanuli Sehansa",
+          "name": "Sanuli Sehansa (C12)",
           "result": "W",
           "score": 330,
           "oppScore": 285,
@@ -269,6 +334,19 @@
           "spread": 242,
           "standingsSpread": 242,
           "opponentName": "Dulin Fernando"
+        },
+        {
+          "round": 4,
+          "id": "C12",
+          "name": "Sanuli Sehansa",
+          "result": "L",
+          "score": 218,
+          "oppScore": 432,
+          "opponentId": "C14",
+          "gameSpread": -214,
+          "spread": 28,
+          "standingsSpread": 28,
+          "opponentName": "Sasmini Maddege"
         }
       ]
     },
@@ -305,7 +383,7 @@
         {
           "round": 3,
           "id": "C20",
-          "name": "Risara Kendaragama",
+          "name": "Risara Kendaragama (C20)",
           "result": "W",
           "score": 378,
           "oppScore": 304,
@@ -313,6 +391,19 @@
           "gameSpread": 74,
           "spread": 274,
           "standingsSpread": 274,
+          "opponentName": "Akila Shenash Ranaweera"
+        },
+        {
+          "round": 4,
+          "id": "C20",
+          "name": "Risara Kendaragama",
+          "result": "W",
+          "score": 522,
+          "oppScore": 279,
+          "opponentId": "C16",
+          "gameSpread": 243,
+          "spread": 517,
+          "standingsSpread": 517,
           "opponentName": "Akila Shenash Ranaweera"
         }
       ]
@@ -350,7 +441,7 @@
         {
           "round": 3,
           "id": "C21",
-          "name": "Dulin Fernando",
+          "name": "Dulin Fernando (C21)",
           "result": "L",
           "score": 285,
           "oppScore": 330,
@@ -359,6 +450,19 @@
           "spread": 340,
           "standingsSpread": 340,
           "opponentName": "Sanuli Sehansa"
+        },
+        {
+          "round": 4,
+          "id": "C21",
+          "name": "Dulin Fernando",
+          "result": "L",
+          "score": 328,
+          "oppScore": 396,
+          "opponentId": "C10",
+          "gameSpread": -68,
+          "spread": 272,
+          "standingsSpread": 272,
+          "opponentName": "Rifna Rushan"
         }
       ]
     },
@@ -395,7 +499,7 @@
         {
           "round": 3,
           "id": "C10",
-          "name": "Rifna Rushan",
+          "name": "Rifna Rushan (C10)",
           "result": "W",
           "score": 392,
           "oppScore": 358,
@@ -404,6 +508,19 @@
           "spread": -13,
           "standingsSpread": -13,
           "opponentName": "Tharuli Sehansa"
+        },
+        {
+          "round": 4,
+          "id": "C10",
+          "name": "Rifna Rushan",
+          "result": "W",
+          "score": 396,
+          "oppScore": 328,
+          "opponentId": "C21",
+          "gameSpread": 68,
+          "spread": 55,
+          "standingsSpread": 55,
+          "opponentName": "Dulin Fernando"
         }
       ]
     },
@@ -440,7 +557,7 @@
         {
           "round": 3,
           "id": "C11",
-          "name": "G.A Chanara Lisari",
+          "name": "G.A Chanara Lisari (C11)",
           "result": "W",
           "score": 391,
           "oppScore": 210,
@@ -448,7 +565,20 @@
           "gameSpread": 181,
           "spread": -113,
           "standingsSpread": -113,
-          "opponentName": "N K Senari Aradhya"
+          "opponentName": "N K Senari Aradhya (C8)"
+        },
+        {
+          "round": 4,
+          "id": "C11",
+          "name": "G.A Chanara Lisari",
+          "result": "L",
+          "score": 181,
+          "oppScore": 506,
+          "opponentId": "C19",
+          "gameSpread": -325,
+          "spread": -438,
+          "standingsSpread": -438,
+          "opponentName": "Thisari Tharindee De Silva"
         }
       ]
     },
@@ -485,7 +615,7 @@
         {
           "round": 3,
           "id": "C18",
-          "name": "Madduma Withanage Sanuri Chanupadee",
+          "name": "Madduma Withanage Sanuri Chanupadee (C18)",
           "result": "W",
           "score": 305,
           "oppScore": 137,
@@ -494,6 +624,19 @@
           "spread": -116,
           "standingsSpread": -116,
           "opponentName": "Ranugi Dasanayake"
+        },
+        {
+          "round": 4,
+          "id": "C18",
+          "name": "Madduma Withanage Sanuri Chanupadee",
+          "result": "L",
+          "score": 270,
+          "oppScore": 488,
+          "opponentId": "C2",
+          "gameSpread": -218,
+          "spread": -334,
+          "standingsSpread": -334,
+          "opponentName": "Miyasi Premaratne"
         }
       ]
     },
@@ -530,7 +673,7 @@
         {
           "round": 3,
           "id": "C9",
-          "name": "H Duleesa Thimashi De Zoysa",
+          "name": "H Duleesa Thimashi De Zoysa (C9)",
           "result": "L",
           "score": 198,
           "oppScore": 404,
@@ -539,6 +682,19 @@
           "spread": -256,
           "standingsSpread": -256,
           "opponentName": "Hasandu Onadith Thirimanna"
+        },
+        {
+          "round": 4,
+          "id": "C9",
+          "name": "H Duleesa Thimashi De Zoysa",
+          "result": "W",
+          "score": 378,
+          "oppScore": 343,
+          "opponentId": "C17",
+          "gameSpread": 35,
+          "spread": -221,
+          "standingsSpread": -221,
+          "opponentName": "Chenaya Lisandunee Kohomban"
         }
       ]
     },
@@ -570,12 +726,12 @@
           "gameSpread": 50,
           "spread": 5,
           "standingsSpread": 5,
-          "opponentName": "N K Senari Aradhya"
+          "opponentName": "N K Senari Aradhya (C8)"
         },
         {
           "round": 3,
           "id": "C5",
-          "name": "Ranugi Dasanayake",
+          "name": "Ranugi Dasanayake (C5)",
           "result": "L",
           "score": 137,
           "oppScore": 305,
@@ -584,6 +740,19 @@
           "spread": -163,
           "standingsSpread": -163,
           "opponentName": "Madduma Withanage Sanuri Chanupadee"
+        },
+        {
+          "round": 4,
+          "id": "C5",
+          "name": "Ranugi Dasanayake",
+          "result": "W",
+          "score": 328,
+          "oppScore": 308,
+          "opponentId": "C7",
+          "gameSpread": 20,
+          "spread": -143,
+          "standingsSpread": -143,
+          "opponentName": "Sansith Kasuntha"
         }
       ]
     },
@@ -620,7 +789,7 @@
         {
           "round": 3,
           "id": "C19",
-          "name": "Thisari Tharindee De Silva",
+          "name": "Thisari Tharindee De Silva (C19)",
           "result": "W",
           "score": 438,
           "oppScore": 289,
@@ -629,6 +798,19 @@
           "spread": 283,
           "standingsSpread": 283,
           "opponentName": "Nethula Abhinaw"
+        },
+        {
+          "round": 4,
+          "id": "C19",
+          "name": "Thisari Tharindee De Silva",
+          "result": "W",
+          "score": 506,
+          "oppScore": 181,
+          "opponentId": "C11",
+          "gameSpread": 325,
+          "spread": 608,
+          "standingsSpread": 608,
+          "opponentName": "G.A Chanara Lisari"
         }
       ]
     },
@@ -660,12 +842,12 @@
           "gameSpread": 217,
           "spread": 76,
           "standingsSpread": 76,
-          "opponentName": "M.W.G. Sethuki Kisakya (C23)"
+          "opponentName": "M.W.G. Sethuki Kisakya"
         },
         {
           "round": 3,
           "id": "C13",
-          "name": "Tharuli Sehansa",
+          "name": "Tharuli Sehansa (C13)",
           "result": "L",
           "score": 358,
           "oppScore": 392,
@@ -674,6 +856,19 @@
           "spread": 42,
           "standingsSpread": 42,
           "opponentName": "Rifna Rushan"
+        },
+        {
+          "round": 4,
+          "id": "C13",
+          "name": "Tharuli Sehansa",
+          "result": "W",
+          "score": 311,
+          "oppScore": 291,
+          "opponentId": "C1",
+          "gameSpread": 20,
+          "spread": 62,
+          "standingsSpread": 62,
+          "opponentName": "Nethula Abhinaw"
         }
       ]
     },
@@ -710,7 +905,7 @@
         {
           "round": 3,
           "id": "C1",
-          "name": "Nethula Abhinaw",
+          "name": "Nethula Abhinaw (C1)",
           "result": "L",
           "score": 289,
           "oppScore": 438,
@@ -719,6 +914,19 @@
           "spread": -224,
           "standingsSpread": -224,
           "opponentName": "Thisari Tharindee De Silva"
+        },
+        {
+          "round": 4,
+          "id": "C1",
+          "name": "Nethula Abhinaw",
+          "result": "L",
+          "score": 291,
+          "oppScore": 311,
+          "opponentId": "C13",
+          "gameSpread": -20,
+          "spread": -244,
+          "standingsSpread": -244,
+          "opponentName": "Tharuli Sehansa"
         }
       ]
     },
@@ -755,7 +963,7 @@
         {
           "round": 3,
           "id": "C17",
-          "name": "Chenaya Lisandunee Kohomban",
+          "name": "Chenaya Lisandunee Kohomban (C17)",
           "result": "L",
           "score": 208,
           "oppScore": 353,
@@ -764,6 +972,19 @@
           "spread": -384,
           "standingsSpread": -384,
           "opponentName": "Sansith Kasuntha"
+        },
+        {
+          "round": 4,
+          "id": "C17",
+          "name": "Chenaya Lisandunee Kohomban",
+          "result": "L",
+          "score": 343,
+          "oppScore": 378,
+          "opponentId": "C9",
+          "gameSpread": -35,
+          "spread": -419,
+          "standingsSpread": -419,
+          "opponentName": "H Duleesa Thimashi De Zoysa"
         }
       ]
     },
@@ -800,7 +1021,7 @@
         {
           "round": 3,
           "id": "C8",
-          "name": "N K Senari Aradhya",
+          "name": "N K Senari Aradhya (C8)",
           "result": "L",
           "score": 210,
           "oppScore": 391,
@@ -845,7 +1066,7 @@
         {
           "round": 3,
           "id": "C7",
-          "name": "Sansith Kasuntha",
+          "name": "Sansith Kasuntha (C7)",
           "result": "W",
           "score": 353,
           "oppScore": 208,
@@ -854,6 +1075,19 @@
           "spread": -243,
           "standingsSpread": -243,
           "opponentName": "Chenaya Lisandunee Kohomban"
+        },
+        {
+          "round": 4,
+          "id": "C7",
+          "name": "Sansith Kasuntha",
+          "result": "L",
+          "score": 308,
+          "oppScore": 328,
+          "opponentId": "C5",
+          "gameSpread": -20,
+          "spread": -263,
+          "standingsSpread": -263,
+          "opponentName": "Ranugi Dasanayake"
         }
       ]
     },
@@ -886,6 +1120,19 @@
           "spread": -417,
           "standingsSpread": -417,
           "opponentName": "Tharuli Sehansa"
+        },
+        {
+          "round": 4,
+          "id": "C23",
+          "name": "M.W.G. Sethuki Kisakya",
+          "result": "W",
+          "score": 379,
+          "oppScore": 304,
+          "opponentId": "C24",
+          "gameSpread": 75,
+          "spread": -242,
+          "standingsSpread": -242,
+          "opponentName": "tushen vidu"
         }
       ]
     },
@@ -922,7 +1169,7 @@
         {
           "round": 3,
           "id": "C6",
-          "name": "Hasandu Onadith Thirimanna",
+          "name": "Hasandu Onadith Thirimanna (C6)",
           "result": "W",
           "score": 404,
           "oppScore": 198,
@@ -931,6 +1178,19 @@
           "spread": -97,
           "standingsSpread": -97,
           "opponentName": "H Duleesa Thimashi De Zoysa"
+        },
+        {
+          "round": 4,
+          "id": "C6",
+          "name": "Hasandu Onadith Thirimanna",
+          "result": "W",
+          "score": 348,
+          "oppScore": 346,
+          "opponentId": "C22",
+          "gameSpread": 2,
+          "spread": -95,
+          "standingsSpread": -95,
+          "opponentName": "Inudi S. W. Abeynayake"
         }
       ]
     },
@@ -967,7 +1227,7 @@
         {
           "round": 3,
           "id": "C15",
-          "name": "P G Dewmi Vihanga",
+          "name": "P G Dewmi Vihanga (C15)",
           "result": "W",
           "score": 426,
           "oppScore": 195,
@@ -976,17 +1236,30 @@
           "spread": 90,
           "standingsSpread": 90,
           "opponentName": "tushen vidu"
+        },
+        {
+          "round": 4,
+          "id": "C15",
+          "name": "P G Dewmi Vihanga",
+          "result": "L",
+          "score": 340,
+          "oppScore": 411,
+          "opponentId": "C4",
+          "gameSpread": -71,
+          "spread": 19,
+          "standingsSpread": 19,
+          "opponentName": "VIDUN NETHMIRA THIRIMANNA"
         }
       ]
     },
     "C24": {
       "id": "C24",
-      "name": "tushen vidu",
+      "name": "tushen vidu (C24)",
       "games": [
         {
           "round": 3,
           "id": "C24",
-          "name": "tushen vidu",
+          "name": "tushen vidu (C24)",
           "result": "L",
           "score": 195,
           "oppScore": 426,
@@ -995,6 +1268,19 @@
           "spread": -206,
           "standingsSpread": -206,
           "opponentName": "P G Dewmi Vihanga"
+        },
+        {
+          "round": 4,
+          "id": "C24",
+          "name": "tushen vidu",
+          "result": "L",
+          "score": 304,
+          "oppScore": 379,
+          "opponentId": "C23",
+          "gameSpread": -75,
+          "spread": -281,
+          "standingsSpread": -281,
+          "opponentName": "M.W.G. Sethuki Kisakya"
         }
       ]
     }
