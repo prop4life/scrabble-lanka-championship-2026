@@ -1,6 +1,6 @@
 {
   "event": "championship",
-  "updated": "2026-08-26T14:15:43.418Z",
+  "updated": "2026-08-27T03:39:59.531Z",
   "players": {
     "A58": {
       "id": "A58",
@@ -113,7 +113,7 @@
         {
           "round": 9,
           "id": "A58",
-          "name": "Inam Irshad",
+          "name": "Inam Irshad (A58)",
           "result": "W",
           "score": 476,
           "oppScore": 405,
@@ -122,6 +122,19 @@
           "spread": 606,
           "standingsSpread": 606,
           "opponentName": "Tharindu Fernando"
+        },
+        {
+          "round": 10,
+          "id": "A58",
+          "name": "Inam Irshad",
+          "result": "L",
+          "score": 391,
+          "oppScore": 437,
+          "opponentId": "A10",
+          "gameSpread": -46,
+          "spread": 560,
+          "standingsSpread": 560,
+          "opponentName": "Sandali Vithanage"
         }
       ]
     },
@@ -236,7 +249,7 @@
         {
           "round": 9,
           "id": "A19",
-          "name": "Kevan Croos",
+          "name": "Kevan Croos (A19)",
           "result": "W",
           "score": 420,
           "oppScore": 397,
@@ -245,6 +258,19 @@
           "spread": 730,
           "standingsSpread": 730,
           "opponentName": "Imeth De Silva"
+        },
+        {
+          "round": 10,
+          "id": "A19",
+          "name": "Kevan Croos",
+          "result": "W",
+          "score": 471,
+          "oppScore": 359,
+          "opponentId": "A47",
+          "gameSpread": 112,
+          "spread": 842,
+          "standingsSpread": 842,
+          "opponentName": "Suresh Chinnaiyah"
         }
       ]
     },
@@ -359,7 +385,7 @@
         {
           "round": 9,
           "id": "A4",
-          "name": "Kumari Goonesekere",
+          "name": "Kumari Goonesekere (A4)",
           "result": "L",
           "score": 361,
           "oppScore": 420,
@@ -368,6 +394,19 @@
           "spread": -13,
           "standingsSpread": -13,
           "opponentName": "Aayush Haputhanthiri"
+        },
+        {
+          "round": 10,
+          "id": "A4",
+          "name": "Kumari Goonesekere",
+          "result": "L",
+          "score": 319,
+          "oppScore": 457,
+          "opponentId": "A11",
+          "gameSpread": -138,
+          "spread": -151,
+          "standingsSpread": -151,
+          "opponentName": "Dammika Witharana"
         }
       ]
     },
@@ -482,7 +521,7 @@
         {
           "round": 9,
           "id": "A17",
-          "name": "Kyaan Perera",
+          "name": "Kyaan Perera (A17)",
           "result": "L",
           "score": 353,
           "oppScore": 553,
@@ -491,6 +530,19 @@
           "spread": 434,
           "standingsSpread": 434,
           "opponentName": "Sandali Vithanage"
+        },
+        {
+          "round": 10,
+          "id": "A17",
+          "name": "Kyaan Perera",
+          "result": "L",
+          "score": 424,
+          "oppScore": 469,
+          "opponentId": "A21",
+          "gameSpread": -45,
+          "spread": 389,
+          "standingsSpread": 389,
+          "opponentName": "Aayush Haputhanthiri"
         }
       ]
     },
@@ -605,7 +657,7 @@
         {
           "round": 9,
           "id": "A21",
-          "name": "Aayush Haputhanthiri",
+          "name": "Aayush Haputhanthiri (A21)",
           "result": "W",
           "score": 420,
           "oppScore": 361,
@@ -614,6 +666,19 @@
           "spread": 291,
           "standingsSpread": 291,
           "opponentName": "Kumari Goonesekere"
+        },
+        {
+          "round": 10,
+          "id": "A21",
+          "name": "Aayush Haputhanthiri",
+          "result": "W",
+          "score": 469,
+          "oppScore": 424,
+          "opponentId": "A17",
+          "gameSpread": 45,
+          "spread": 336,
+          "standingsSpread": 336,
+          "opponentName": "Kyaan Perera"
         }
       ]
     },
@@ -728,7 +793,7 @@
         {
           "round": 9,
           "id": "A52",
-          "name": "Devinu Balasooriya",
+          "name": "Devinu Balasooriya (A52)",
           "result": "L",
           "score": 354,
           "oppScore": 355,
@@ -737,6 +802,19 @@
           "spread": 537,
           "standingsSpread": 537,
           "opponentName": "Ilham Irshad"
+        },
+        {
+          "round": 10,
+          "id": "A52",
+          "name": "Devinu Balasooriya",
+          "result": "L",
+          "score": 380,
+          "oppScore": 459,
+          "opponentId": "A29",
+          "gameSpread": -79,
+          "spread": 458,
+          "standingsSpread": 458,
+          "opponentName": "Janiru Jayawardhana"
         }
       ]
     },
@@ -851,7 +929,7 @@
         {
           "round": 9,
           "id": "A29",
-          "name": "Janiru Jayawardhana",
+          "name": "Janiru Jayawardhana (A29)",
           "result": "L",
           "score": 331,
           "oppScore": 441,
@@ -860,6 +938,19 @@
           "spread": 292,
           "standingsSpread": 292,
           "opponentName": "Udhev Prasath"
+        },
+        {
+          "round": 10,
+          "id": "A29",
+          "name": "Janiru Jayawardhana",
+          "result": "W",
+          "score": 459,
+          "oppScore": 380,
+          "opponentId": "A52",
+          "gameSpread": 79,
+          "spread": 371,
+          "standingsSpread": 371,
+          "opponentName": "Devinu Balasooriya"
         }
       ]
     },
@@ -974,7 +1065,7 @@
         {
           "round": 9,
           "id": "A40",
-          "name": "Ruchitha Gurugamage",
+          "name": "Ruchitha Gurugamage (A40)",
           "result": "W",
           "score": 391,
           "oppScore": 335,
@@ -983,6 +1074,19 @@
           "spread": 202,
           "standingsSpread": 202,
           "opponentName": "Chenuki Ekanayake"
+        },
+        {
+          "round": 10,
+          "id": "A40",
+          "name": "Ruchitha Gurugamage",
+          "result": "W",
+          "score": 471,
+          "oppScore": 407,
+          "opponentId": "A43",
+          "gameSpread": 64,
+          "spread": 266,
+          "standingsSpread": 266,
+          "opponentName": "Pasindu Wijewardena"
         }
       ]
     },
@@ -1097,7 +1201,7 @@
         {
           "round": 9,
           "id": "A1",
-          "name": "Wimal Fernando",
+          "name": "Wimal Fernando (A1)",
           "result": "W",
           "score": 450,
           "oppScore": 374,
@@ -1106,6 +1210,19 @@
           "spread": 570,
           "standingsSpread": 570,
           "opponentName": "Thenumi Dasanayake"
+        },
+        {
+          "round": 10,
+          "id": "A1",
+          "name": "Wimal Fernando",
+          "result": "L",
+          "score": 374,
+          "oppScore": 416,
+          "opponentId": "A15",
+          "gameSpread": -42,
+          "spread": 528,
+          "standingsSpread": 528,
+          "opponentName": "Lalantha Amarasinghe"
         }
       ]
     },
@@ -1220,7 +1337,7 @@
         {
           "round": 9,
           "id": "A6",
-          "name": "Nevan Ramanayake",
+          "name": "Nevan Ramanayake (A6)",
           "result": "W",
           "score": 380,
           "oppScore": 378,
@@ -1229,6 +1346,19 @@
           "spread": -506,
           "standingsSpread": -506,
           "opponentName": "Sayum Nenuka"
+        },
+        {
+          "round": 10,
+          "id": "A6",
+          "name": "Nevan Ramanayake",
+          "result": "W",
+          "score": 385,
+          "oppScore": 366,
+          "opponentId": "A51",
+          "gameSpread": 19,
+          "spread": -487,
+          "standingsSpread": -487,
+          "opponentName": "Rashane D'Almeida"
         }
       ]
     },
@@ -1343,7 +1473,7 @@
         {
           "round": 9,
           "id": "A43",
-          "name": "Pasindu Wijewardena",
+          "name": "Pasindu Wijewardena (A43)",
           "result": "L",
           "score": 367,
           "oppScore": 451,
@@ -1352,6 +1482,19 @@
           "spread": 198,
           "standingsSpread": 198,
           "opponentName": "Sachiv Prasath"
+        },
+        {
+          "round": 10,
+          "id": "A43",
+          "name": "Pasindu Wijewardena",
+          "result": "L",
+          "score": 407,
+          "oppScore": 471,
+          "opponentId": "A40",
+          "gameSpread": -64,
+          "spread": 134,
+          "standingsSpread": 134,
+          "opponentName": "Ruchitha Gurugamage"
         }
       ]
     },
@@ -1466,7 +1609,7 @@
         {
           "round": 9,
           "id": "A30",
-          "name": "Priya Fernando",
+          "name": "Priya Fernando (A30)",
           "result": "T",
           "score": 423,
           "oppScore": 423,
@@ -1475,6 +1618,19 @@
           "spread": 81,
           "standingsSpread": 81,
           "opponentName": "Ravindu Fernando"
+        },
+        {
+          "round": 10,
+          "id": "A30",
+          "name": "Priya Fernando",
+          "result": "L",
+          "score": 401,
+          "oppScore": 409,
+          "opponentId": "A24",
+          "gameSpread": -8,
+          "spread": 73,
+          "standingsSpread": 73,
+          "opponentName": "Thenumi Dasanayake"
         }
       ]
     },
@@ -1589,7 +1745,7 @@
         {
           "round": 9,
           "id": "A45",
-          "name": "Ravindu Fernando",
+          "name": "Ravindu Fernando (A45)",
           "result": "T",
           "score": 423,
           "oppScore": 423,
@@ -1598,6 +1754,19 @@
           "spread": -4,
           "standingsSpread": -4,
           "opponentName": "Priya Fernando"
+        },
+        {
+          "round": 10,
+          "id": "A45",
+          "name": "Ravindu Fernando",
+          "result": "W",
+          "score": 423,
+          "oppScore": 282,
+          "opponentId": "A36",
+          "gameSpread": 141,
+          "spread": 137,
+          "standingsSpread": 137,
+          "opponentName": "Chenuki Ekanayake"
         }
       ]
     },
@@ -1712,7 +1881,7 @@
         {
           "round": 9,
           "id": "A49",
-          "name": "Udhev Prasath",
+          "name": "Udhev Prasath (A49)",
           "result": "W",
           "score": 441,
           "oppScore": 331,
@@ -1721,6 +1890,19 @@
           "spread": 520,
           "standingsSpread": 520,
           "opponentName": "Janiru Jayawardhana"
+        },
+        {
+          "round": 10,
+          "id": "A49",
+          "name": "Udhev Prasath",
+          "result": "W",
+          "score": 388,
+          "oppScore": 384,
+          "opponentId": "A57",
+          "gameSpread": 4,
+          "spread": 524,
+          "standingsSpread": 524,
+          "opponentName": "Ilham Irshad"
         }
       ]
     },
@@ -1835,7 +2017,7 @@
         {
           "round": 9,
           "id": "A46",
-          "name": "Tharindu Fernando",
+          "name": "Tharindu Fernando (A46)",
           "result": "L",
           "score": 405,
           "oppScore": 476,
@@ -1844,6 +2026,19 @@
           "spread": 459,
           "standingsSpread": 459,
           "opponentName": "Inam Irshad"
+        },
+        {
+          "round": 10,
+          "id": "A46",
+          "name": "Tharindu Fernando",
+          "result": "L",
+          "score": 375,
+          "oppScore": 409,
+          "opponentId": "A50",
+          "gameSpread": -34,
+          "spread": 425,
+          "standingsSpread": 425,
+          "opponentName": "Sachiv Prasath"
         }
       ]
     },
@@ -1958,7 +2153,7 @@
         {
           "round": 9,
           "id": "A33",
-          "name": "Omiru Nandasiri",
+          "name": "Omiru Nandasiri (A33)",
           "result": "L",
           "score": 378,
           "oppScore": 478,
@@ -1967,6 +2162,19 @@
           "spread": 13,
           "standingsSpread": 13,
           "opponentName": "Kavindu Malawaraarac"
+        },
+        {
+          "round": 10,
+          "id": "A33",
+          "name": "Omiru Nandasiri",
+          "result": "W",
+          "score": 470,
+          "oppScore": 379,
+          "opponentId": "A53",
+          "gameSpread": 91,
+          "spread": 104,
+          "standingsSpread": 104,
+          "opponentName": "Nethumi Piyatissa"
         }
       ]
     },
@@ -2081,7 +2289,7 @@
         {
           "round": 9,
           "id": "A14",
-          "name": "Indunil Amarasinghe",
+          "name": "Indunil Amarasinghe (A14)",
           "result": "L",
           "score": 374,
           "oppScore": 546,
@@ -2090,6 +2298,19 @@
           "spread": 673,
           "standingsSpread": 673,
           "opponentName": "Suresh Chinnaiyah"
+        },
+        {
+          "round": 10,
+          "id": "A14",
+          "name": "Indunil Amarasinghe",
+          "result": "W",
+          "score": 469,
+          "oppScore": 405,
+          "opponentId": "A7",
+          "gameSpread": 64,
+          "spread": 737,
+          "standingsSpread": 737,
+          "opponentName": "Imeth De Silva"
         }
       ]
     },
@@ -2204,7 +2425,7 @@
         {
           "round": 9,
           "id": "A11",
-          "name": "Dammika Witharana",
+          "name": "Dammika Witharana (A11)",
           "result": "L",
           "score": 400,
           "oppScore": 524,
@@ -2213,6 +2434,19 @@
           "spread": -118,
           "standingsSpread": -118,
           "opponentName": "Ramith Siriwardana"
+        },
+        {
+          "round": 10,
+          "id": "A11",
+          "name": "Dammika Witharana",
+          "result": "W",
+          "score": 457,
+          "oppScore": 319,
+          "opponentId": "A4",
+          "gameSpread": 138,
+          "spread": 20,
+          "standingsSpread": 20,
+          "opponentName": "Kumari Goonesekere"
         }
       ]
     },
@@ -2327,7 +2561,7 @@
         {
           "round": 9,
           "id": "A50",
-          "name": "Sachiv Prasath",
+          "name": "Sachiv Prasath (A50)",
           "result": "W",
           "score": 451,
           "oppScore": 367,
@@ -2336,6 +2570,19 @@
           "spread": 460,
           "standingsSpread": 460,
           "opponentName": "Pasindu Wijewardena"
+        },
+        {
+          "round": 10,
+          "id": "A50",
+          "name": "Sachiv Prasath",
+          "result": "W",
+          "score": 409,
+          "oppScore": 375,
+          "opponentId": "A46",
+          "gameSpread": 34,
+          "spread": 494,
+          "standingsSpread": 494,
+          "opponentName": "Tharindu Fernando"
         }
       ]
     },
@@ -2450,7 +2697,7 @@
         {
           "round": 9,
           "id": "A12",
-          "name": "Nimuthu Witharana",
+          "name": "Nimuthu Witharana (A12)",
           "result": "L",
           "score": 390,
           "oppScore": 392,
@@ -2459,6 +2706,19 @@
           "spread": 246,
           "standingsSpread": 246,
           "opponentName": "Lalantha Amarasinghe"
+        },
+        {
+          "round": 10,
+          "id": "A12",
+          "name": "Nimuthu Witharana",
+          "result": "W",
+          "score": 500,
+          "oppScore": 345,
+          "opponentId": "A31",
+          "gameSpread": 155,
+          "spread": 401,
+          "standingsSpread": 401,
+          "opponentName": "Percy Fernando"
         }
       ]
     },
@@ -2573,7 +2833,7 @@
         {
           "round": 9,
           "id": "A10",
-          "name": "Sandali Vithanage",
+          "name": "Sandali Vithanage (A10)",
           "result": "W",
           "score": 553,
           "oppScore": 353,
@@ -2582,6 +2842,19 @@
           "spread": 781,
           "standingsSpread": 781,
           "opponentName": "Kyaan Perera"
+        },
+        {
+          "round": 10,
+          "id": "A10",
+          "name": "Sandali Vithanage",
+          "result": "W",
+          "score": 437,
+          "oppScore": 391,
+          "opponentId": "A58",
+          "gameSpread": 46,
+          "spread": 827,
+          "standingsSpread": 827,
+          "opponentName": "Inam Irshad"
         }
       ]
     },
@@ -2696,7 +2969,7 @@
         {
           "round": 9,
           "id": "A57",
-          "name": "Ilham Irshad",
+          "name": "Ilham Irshad (A57)",
           "result": "W",
           "score": 355,
           "oppScore": 354,
@@ -2705,6 +2978,19 @@
           "spread": 466,
           "standingsSpread": 466,
           "opponentName": "Devinu Balasooriya"
+        },
+        {
+          "round": 10,
+          "id": "A57",
+          "name": "Ilham Irshad",
+          "result": "L",
+          "score": 384,
+          "oppScore": 388,
+          "opponentId": "A49",
+          "gameSpread": -4,
+          "spread": 462,
+          "standingsSpread": 462,
+          "opponentName": "Udhev Prasath"
         }
       ]
     },
@@ -2819,7 +3105,7 @@
         {
           "round": 9,
           "id": "A7",
-          "name": "Imeth De Silva",
+          "name": "Imeth De Silva (A7)",
           "result": "L",
           "score": 397,
           "oppScore": 420,
@@ -2828,6 +3114,19 @@
           "spread": 198,
           "standingsSpread": 198,
           "opponentName": "Kevan Croos"
+        },
+        {
+          "round": 10,
+          "id": "A7",
+          "name": "Imeth De Silva",
+          "result": "L",
+          "score": 405,
+          "oppScore": 469,
+          "opponentId": "A14",
+          "gameSpread": -64,
+          "spread": 134,
+          "standingsSpread": 134,
+          "opponentName": "Indunil Amarasinghe"
         }
       ]
     },
@@ -2942,7 +3241,7 @@
         {
           "round": 9,
           "id": "A9",
-          "name": "Adithya Mayabandara",
+          "name": "Adithya Mayabandara (A9)",
           "result": "L",
           "score": 421,
           "oppScore": 431,
@@ -2951,6 +3250,19 @@
           "spread": -174,
           "standingsSpread": -174,
           "opponentName": "Sihala Wijesundara"
+        },
+        {
+          "round": 10,
+          "id": "A9",
+          "name": "Adithya Mayabandara",
+          "result": "L",
+          "score": 350,
+          "oppScore": 455,
+          "opponentId": "A26",
+          "gameSpread": -105,
+          "spread": -279,
+          "standingsSpread": -279,
+          "opponentName": "Banuljith Dasnaka"
         }
       ]
     },
@@ -3065,7 +3377,7 @@
         {
           "round": 9,
           "id": "A16",
-          "name": "Ramith Siriwardana",
+          "name": "Ramith Siriwardana (A16)",
           "result": "W",
           "score": 524,
           "oppScore": 400,
@@ -3074,6 +3386,19 @@
           "spread": 139,
           "standingsSpread": 139,
           "opponentName": "Dammika Witharana"
+        },
+        {
+          "round": 10,
+          "id": "A16",
+          "name": "Ramith Siriwardana",
+          "result": "L",
+          "score": 381,
+          "oppScore": 444,
+          "opponentId": "A3",
+          "gameSpread": -63,
+          "spread": 76,
+          "standingsSpread": 76,
+          "opponentName": "Sihala Wijesundara"
         }
       ]
     },
@@ -3188,7 +3513,7 @@
         {
           "round": 9,
           "id": "A18",
-          "name": "Kavindu Malawaraarac",
+          "name": "Kavindu Malawaraarac (A18)",
           "result": "W",
           "score": 478,
           "oppScore": 378,
@@ -3197,6 +3522,19 @@
           "spread": 226,
           "standingsSpread": 226,
           "opponentName": "Omiru Nandasiri"
+        },
+        {
+          "round": 10,
+          "id": "A18",
+          "name": "Kavindu Malawaraarac",
+          "result": "W",
+          "score": 394,
+          "oppScore": 374,
+          "opponentId": "A28",
+          "gameSpread": 20,
+          "spread": 246,
+          "standingsSpread": 246,
+          "opponentName": "Tenuka Minketh"
         }
       ]
     },
@@ -3311,7 +3649,7 @@
         {
           "round": 9,
           "id": "A26",
-          "name": "Banuljith Dasnaka",
+          "name": "Banuljith Dasnaka (A26)",
           "result": "W",
           "score": 380,
           "oppScore": 344,
@@ -3320,6 +3658,19 @@
           "spread": -169,
           "standingsSpread": -169,
           "opponentName": "Rashane D'Almeida"
+        },
+        {
+          "round": 10,
+          "id": "A26",
+          "name": "Banuljith Dasnaka",
+          "result": "W",
+          "score": 455,
+          "oppScore": 350,
+          "opponentId": "A9",
+          "gameSpread": 105,
+          "spread": -64,
+          "standingsSpread": -64,
+          "opponentName": "Adithya Mayabandara"
         }
       ]
     },
@@ -3434,7 +3785,7 @@
         {
           "round": 9,
           "id": "A55",
-          "name": "Farida Akbarally",
+          "name": "Farida Akbarally (A55)",
           "result": "L",
           "score": 403,
           "oppScore": 443,
@@ -3443,6 +3794,19 @@
           "spread": -67,
           "standingsSpread": -67,
           "opponentName": "Tehash Kodikara"
+        },
+        {
+          "round": 10,
+          "id": "A55",
+          "name": "Farida Akbarally",
+          "result": "W",
+          "score": 391,
+          "oppScore": 381,
+          "opponentId": "A42",
+          "gameSpread": 10,
+          "spread": -57,
+          "standingsSpread": -57,
+          "opponentName": "yenuli warusawithana"
         }
       ]
     },
@@ -3557,7 +3921,7 @@
         {
           "round": 9,
           "id": "A2",
-          "name": "Nelith Dodangoda",
+          "name": "Nelith Dodangoda (A2)",
           "result": "L",
           "score": 268,
           "oppScore": 444,
@@ -3566,6 +3930,19 @@
           "spread": -502,
           "standingsSpread": -502,
           "opponentName": "yenuli warusawithana"
+        },
+        {
+          "round": 10,
+          "id": "A2",
+          "name": "Nelith Dodangoda",
+          "result": "W",
+          "score": 456,
+          "oppScore": 351,
+          "opponentId": "A41",
+          "gameSpread": 105,
+          "spread": -397,
+          "standingsSpread": -397,
+          "opponentName": "Senuk Kethmin Marambage"
         }
       ]
     },
@@ -3680,7 +4057,7 @@
         {
           "round": 9,
           "id": "A32",
-          "name": "Vinadee Aseka De Silva",
+          "name": "Vinadee Aseka De Silva (A32)",
           "result": "W",
           "score": 403,
           "oppScore": 279,
@@ -3689,6 +4066,19 @@
           "spread": -528,
           "standingsSpread": -528,
           "opponentName": "Fathima Surayya Shammas"
+        },
+        {
+          "round": 10,
+          "id": "A32",
+          "name": "Vinadee Aseka De Silva",
+          "result": "L",
+          "score": 375,
+          "oppScore": 419,
+          "opponentId": "A23",
+          "gameSpread": -44,
+          "spread": -572,
+          "standingsSpread": -572,
+          "opponentName": "Tusanda Gagana"
         }
       ]
     },
@@ -3803,7 +4193,7 @@
         {
           "round": 9,
           "id": "A5",
-          "name": "Kavinu Ranathunga",
+          "name": "Kavinu Ranathunga (A5)",
           "result": "W",
           "score": 443,
           "oppScore": 374,
@@ -3812,6 +4202,19 @@
           "spread": -160,
           "standingsSpread": -160,
           "opponentName": "Ayod Ruparatne"
+        },
+        {
+          "round": 10,
+          "id": "A5",
+          "name": "Kavinu Ranathunga",
+          "result": "L",
+          "score": 315,
+          "oppScore": 537,
+          "opponentId": "A25",
+          "gameSpread": -222,
+          "spread": -382,
+          "standingsSpread": -382,
+          "opponentName": "Sithuki Abeysinghe"
         }
       ]
     },
@@ -3926,7 +4329,7 @@
         {
           "round": 9,
           "id": "A35",
-          "name": "Sayum Nenuka",
+          "name": "Sayum Nenuka (A35)",
           "result": "L",
           "score": 378,
           "oppScore": 380,
@@ -3935,6 +4338,19 @@
           "spread": -451,
           "standingsSpread": -451,
           "opponentName": "Nevan Ramanayake"
+        },
+        {
+          "round": 10,
+          "id": "A35",
+          "name": "Sayum Nenuka",
+          "result": "L",
+          "score": 297,
+          "oppScore": 436,
+          "opponentId": "A44",
+          "gameSpread": -139,
+          "spread": -590,
+          "standingsSpread": -590,
+          "opponentName": "Thedara Thevinuli"
         }
       ]
     },
@@ -4049,7 +4465,7 @@
         {
           "round": 9,
           "id": "A47",
-          "name": "Suresh Chinnaiyah",
+          "name": "Suresh Chinnaiyah (A47)",
           "result": "W",
           "score": 546,
           "oppScore": 374,
@@ -4058,6 +4474,19 @@
           "spread": 1103,
           "standingsSpread": 1103,
           "opponentName": "Indunil Amarasinghe"
+        },
+        {
+          "round": 10,
+          "id": "A47",
+          "name": "Suresh Chinnaiyah",
+          "result": "L",
+          "score": 359,
+          "oppScore": 471,
+          "opponentId": "A19",
+          "gameSpread": -112,
+          "spread": 991,
+          "standingsSpread": 991,
+          "opponentName": "Kevan Croos"
         }
       ]
     },
@@ -4172,7 +4601,7 @@
         {
           "round": 9,
           "id": "A37",
-          "name": "Gihansa Pathirana",
+          "name": "Gihansa Pathirana (A37)",
           "result": "W",
           "score": 461,
           "oppScore": 328,
@@ -4181,6 +4610,19 @@
           "spread": 469,
           "standingsSpread": 469,
           "opponentName": "Senuk Kethmin Marambage"
+        },
+        {
+          "round": 10,
+          "id": "A37",
+          "name": "Gihansa Pathirana",
+          "result": "W",
+          "score": 410,
+          "oppScore": 285,
+          "opponentId": "A54",
+          "gameSpread": 125,
+          "spread": 594,
+          "standingsSpread": 594,
+          "opponentName": "Sandeki De Silva"
         }
       ]
     },
@@ -4295,7 +4737,7 @@
         {
           "round": 9,
           "id": "A28",
-          "name": "Tenuka Minketh",
+          "name": "Tenuka Minketh (A28)",
           "result": "W",
           "score": 447,
           "oppScore": 356,
@@ -4304,6 +4746,19 @@
           "spread": 239,
           "standingsSpread": 239,
           "opponentName": "Nethumi Piyatissa"
+        },
+        {
+          "round": 10,
+          "id": "A28",
+          "name": "Tenuka Minketh",
+          "result": "L",
+          "score": 374,
+          "oppScore": 394,
+          "opponentId": "A18",
+          "gameSpread": -20,
+          "spread": 219,
+          "standingsSpread": 219,
+          "opponentName": "Kavindu Malawaraarac"
         }
       ]
     },
@@ -4418,7 +4873,7 @@
         {
           "round": 9,
           "id": "A24",
-          "name": "Thenumi Dasanayake",
+          "name": "Thenumi Dasanayake (A24)",
           "result": "L",
           "score": 374,
           "oppScore": 450,
@@ -4427,6 +4882,19 @@
           "spread": 220,
           "standingsSpread": 220,
           "opponentName": "Wimal Fernando"
+        },
+        {
+          "round": 10,
+          "id": "A24",
+          "name": "Thenumi Dasanayake",
+          "result": "W",
+          "score": 409,
+          "oppScore": 401,
+          "opponentId": "A30",
+          "gameSpread": 8,
+          "spread": 228,
+          "standingsSpread": 228,
+          "opponentName": "Priya Fernando"
         }
       ]
     },
@@ -4541,7 +5009,7 @@
         {
           "round": 9,
           "id": "A36",
-          "name": "Chenuki Ekanayake",
+          "name": "Chenuki Ekanayake (A36)",
           "result": "L",
           "score": 335,
           "oppScore": 391,
@@ -4550,6 +5018,19 @@
           "spread": 92,
           "standingsSpread": 92,
           "opponentName": "Ruchitha Gurugamage"
+        },
+        {
+          "round": 10,
+          "id": "A36",
+          "name": "Chenuki Ekanayake",
+          "result": "L",
+          "score": 282,
+          "oppScore": 423,
+          "opponentId": "A45",
+          "gameSpread": -141,
+          "spread": -49,
+          "standingsSpread": -49,
+          "opponentName": "Ravindu Fernando"
         }
       ]
     },
@@ -4664,7 +5145,7 @@
         {
           "round": 9,
           "id": "A15",
-          "name": "Lalantha Amarasinghe",
+          "name": "Lalantha Amarasinghe (A15)",
           "result": "W",
           "score": 392,
           "oppScore": 390,
@@ -4673,6 +5154,19 @@
           "spread": -17,
           "standingsSpread": -17,
           "opponentName": "Nimuthu Witharana"
+        },
+        {
+          "round": 10,
+          "id": "A15",
+          "name": "Lalantha Amarasinghe",
+          "result": "W",
+          "score": 416,
+          "oppScore": 374,
+          "opponentId": "A1",
+          "gameSpread": 42,
+          "spread": 25,
+          "standingsSpread": 25,
+          "opponentName": "Wimal Fernando"
         }
       ]
     },
@@ -4787,7 +5281,7 @@
         {
           "round": 9,
           "id": "A25",
-          "name": "Sithuki Abeysinghe",
+          "name": "Sithuki Abeysinghe (A25)",
           "result": "W",
           "score": 428,
           "oppScore": 379,
@@ -4796,6 +5290,19 @@
           "spread": -216,
           "standingsSpread": -216,
           "opponentName": "Allage Sayun Senuka Dasanayake"
+        },
+        {
+          "round": 10,
+          "id": "A25",
+          "name": "Sithuki Abeysinghe",
+          "result": "W",
+          "score": 537,
+          "oppScore": 315,
+          "opponentId": "A5",
+          "gameSpread": 222,
+          "spread": 6,
+          "standingsSpread": 6,
+          "opponentName": "Kavinu Ranathunga"
         }
       ]
     },
@@ -4910,7 +5417,7 @@
         {
           "round": 9,
           "id": "A31",
-          "name": "Percy Fernando",
+          "name": "Percy Fernando (A31)",
           "result": "W",
           "score": 428,
           "oppScore": 427,
@@ -4919,6 +5426,19 @@
           "spread": -325,
           "standingsSpread": -325,
           "opponentName": "Sandeki De Silva"
+        },
+        {
+          "round": 10,
+          "id": "A31",
+          "name": "Percy Fernando",
+          "result": "L",
+          "score": 345,
+          "oppScore": 500,
+          "opponentId": "A12",
+          "gameSpread": -155,
+          "spread": -480,
+          "standingsSpread": -480,
+          "opponentName": "Nimuthu Witharana"
         }
       ]
     },
@@ -5033,7 +5553,7 @@
         {
           "round": 9,
           "id": "A41",
-          "name": "Senuk Kethmin Marambage",
+          "name": "Senuk Kethmin Marambage (A41)",
           "result": "L",
           "score": 328,
           "oppScore": 461,
@@ -5042,6 +5562,19 @@
           "spread": -690,
           "standingsSpread": -690,
           "opponentName": "Gihansa Pathirana"
+        },
+        {
+          "round": 10,
+          "id": "A41",
+          "name": "Senuk Kethmin Marambage",
+          "result": "L",
+          "score": 351,
+          "oppScore": 456,
+          "opponentId": "A2",
+          "gameSpread": -105,
+          "spread": -795,
+          "standingsSpread": -795,
+          "opponentName": "Nelith Dodangoda"
         }
       ]
     },
@@ -5156,7 +5689,7 @@
         {
           "round": 9,
           "id": "A23",
-          "name": "Tusanda Gagana",
+          "name": "Tusanda Gagana (A23)",
           "result": "L",
           "score": 382,
           "oppScore": 404,
@@ -5165,6 +5698,19 @@
           "spread": -609,
           "standingsSpread": -609,
           "opponentName": "Chanudi U.W. Abeynayake"
+        },
+        {
+          "round": 10,
+          "id": "A23",
+          "name": "Tusanda Gagana",
+          "result": "W",
+          "score": 419,
+          "oppScore": 375,
+          "opponentId": "A32",
+          "gameSpread": 44,
+          "spread": -565,
+          "standingsSpread": -565,
+          "opponentName": "Vinadee Aseka De Silva"
         }
       ]
     },
@@ -5279,7 +5825,7 @@
         {
           "round": 9,
           "id": "A27",
-          "name": "Isira Dineth",
+          "name": "Isira Dineth (A27)",
           "result": "W",
           "score": 480,
           "oppScore": 318,
@@ -5288,6 +5834,19 @@
           "spread": -107,
           "standingsSpread": -107,
           "opponentName": "Oshadha Mithradeva"
+        },
+        {
+          "round": 10,
+          "id": "A27",
+          "name": "Isira Dineth",
+          "result": "W",
+          "score": 443,
+          "oppScore": 403,
+          "opponentId": "A39",
+          "gameSpread": 40,
+          "spread": -67,
+          "standingsSpread": -67,
+          "opponentName": "Tehash Kodikara"
         }
       ]
     },
@@ -5402,7 +5961,7 @@
         {
           "round": 9,
           "id": "A34",
-          "name": "Oshadha Mithradeva",
+          "name": "Oshadha Mithradeva (A34)",
           "result": "L",
           "score": 318,
           "oppScore": 480,
@@ -5411,6 +5970,19 @@
           "spread": -457,
           "standingsSpread": -457,
           "opponentName": "Isira Dineth"
+        },
+        {
+          "round": 10,
+          "id": "A34",
+          "name": "Oshadha Mithradeva",
+          "result": "W",
+          "score": 410,
+          "oppScore": 303,
+          "opponentId": "A22",
+          "gameSpread": 107,
+          "spread": -350,
+          "standingsSpread": -350,
+          "opponentName": "Chanudi U.W. Abeynayake"
         }
       ]
     },
@@ -5525,7 +6097,7 @@
         {
           "round": 9,
           "id": "A54",
-          "name": "Sandeki De Silva",
+          "name": "Sandeki De Silva (A54)",
           "result": "L",
           "score": 427,
           "oppScore": 428,
@@ -5534,6 +6106,19 @@
           "spread": -515,
           "standingsSpread": -515,
           "opponentName": "Percy Fernando"
+        },
+        {
+          "round": 10,
+          "id": "A54",
+          "name": "Sandeki De Silva",
+          "result": "L",
+          "score": 285,
+          "oppScore": 410,
+          "opponentId": "A37",
+          "gameSpread": -125,
+          "spread": -640,
+          "standingsSpread": -640,
+          "opponentName": "Gihansa Pathirana"
         }
       ]
     },
@@ -5648,7 +6233,7 @@
         {
           "round": 9,
           "id": "A51",
-          "name": "Rashane D'Almeida",
+          "name": "Rashane D'Almeida (A51)",
           "result": "L",
           "score": 344,
           "oppScore": 380,
@@ -5657,6 +6242,19 @@
           "spread": -353,
           "standingsSpread": -353,
           "opponentName": "Banuljith Dasnaka"
+        },
+        {
+          "round": 10,
+          "id": "A51",
+          "name": "Rashane D'Almeida",
+          "result": "L",
+          "score": 366,
+          "oppScore": 385,
+          "opponentId": "A6",
+          "gameSpread": -19,
+          "spread": -372,
+          "standingsSpread": -372,
+          "opponentName": "Nevan Ramanayake"
         }
       ]
     },
@@ -5771,7 +6369,7 @@
         {
           "round": 9,
           "id": "A3",
-          "name": "Sihala Wijesundara",
+          "name": "Sihala Wijesundara (A3)",
           "result": "W",
           "score": 431,
           "oppScore": 421,
@@ -5780,6 +6378,19 @@
           "spread": -133,
           "standingsSpread": -133,
           "opponentName": "Adithya Mayabandara"
+        },
+        {
+          "round": 10,
+          "id": "A3",
+          "name": "Sihala Wijesundara",
+          "result": "W",
+          "score": 444,
+          "oppScore": 381,
+          "opponentId": "A16",
+          "gameSpread": 63,
+          "spread": -70,
+          "standingsSpread": -70,
+          "opponentName": "Ramith Siriwardana"
         }
       ]
     },
@@ -5894,7 +6505,7 @@
         {
           "round": 9,
           "id": "A8",
-          "name": "Allage Sayun Senuka Dasanayake",
+          "name": "Allage Sayun Senuka Dasanayake (A8)",
           "result": "L",
           "score": 379,
           "oppScore": 428,
@@ -5903,6 +6514,19 @@
           "spread": -318,
           "standingsSpread": -318,
           "opponentName": "Sithuki Abeysinghe"
+        },
+        {
+          "round": 10,
+          "id": "A8",
+          "name": "Allage Sayun Senuka Dasanayake",
+          "result": "W",
+          "score": 444,
+          "oppScore": 308,
+          "opponentId": "A13",
+          "gameSpread": 136,
+          "spread": -182,
+          "standingsSpread": -182,
+          "opponentName": "Ayod Ruparatne"
         }
       ]
     },
@@ -6017,7 +6641,7 @@
         {
           "round": 9,
           "id": "A53",
-          "name": "Nethumi Piyatissa",
+          "name": "Nethumi Piyatissa (A53)",
           "result": "L",
           "score": 356,
           "oppScore": 447,
@@ -6026,6 +6650,19 @@
           "spread": 81,
           "standingsSpread": 81,
           "opponentName": "Tenuka Minketh"
+        },
+        {
+          "round": 10,
+          "id": "A53",
+          "name": "Nethumi Piyatissa",
+          "result": "L",
+          "score": 379,
+          "oppScore": 470,
+          "opponentId": "A33",
+          "gameSpread": -91,
+          "spread": -10,
+          "standingsSpread": -10,
+          "opponentName": "Omiru Nandasiri"
         }
       ]
     },
@@ -6140,7 +6777,7 @@
         {
           "round": 9,
           "id": "A42",
-          "name": "yenuli warusawithana",
+          "name": "yenuli warusawithana (A42)",
           "result": "W",
           "score": 444,
           "oppScore": 268,
@@ -6149,6 +6786,19 @@
           "spread": -203,
           "standingsSpread": -203,
           "opponentName": "Nelith Dodangoda"
+        },
+        {
+          "round": 10,
+          "id": "A42",
+          "name": "yenuli warusawithana",
+          "result": "L",
+          "score": 381,
+          "oppScore": 391,
+          "opponentId": "A55",
+          "gameSpread": -10,
+          "spread": -213,
+          "standingsSpread": -213,
+          "opponentName": "Farida Akbarally"
         }
       ]
     },
@@ -6263,7 +6913,7 @@
         {
           "round": 9,
           "id": "A39",
-          "name": "Tehash Kodikara",
+          "name": "Tehash Kodikara (A39)",
           "result": "W",
           "score": 443,
           "oppScore": 403,
@@ -6272,6 +6922,19 @@
           "spread": -74,
           "standingsSpread": -74,
           "opponentName": "Farida Akbarally"
+        },
+        {
+          "round": 10,
+          "id": "A39",
+          "name": "Tehash Kodikara",
+          "result": "L",
+          "score": 403,
+          "oppScore": 443,
+          "opponentId": "A27",
+          "gameSpread": -40,
+          "spread": -114,
+          "standingsSpread": -114,
+          "opponentName": "Isira Dineth"
         }
       ]
     },
@@ -6386,7 +7049,7 @@
         {
           "round": 9,
           "id": "A48",
-          "name": "Sanuki Kariyawasam",
+          "name": "Sanuki Kariyawasam (A48)",
           "result": "L",
           "score": 196,
           "oppScore": 595,
@@ -6395,6 +7058,19 @@
           "spread": -1785,
           "standingsSpread": -1785,
           "opponentName": "Thedara Thevinuli"
+        },
+        {
+          "round": 10,
+          "id": "A48",
+          "name": "Sanuki Kariyawasam",
+          "result": "W",
+          "score": 417,
+          "oppScore": 405,
+          "opponentId": "A20",
+          "gameSpread": 12,
+          "spread": -1773,
+          "standingsSpread": -1773,
+          "opponentName": "Fathima Surayya Shammas"
         }
       ]
     },
@@ -6509,7 +7185,7 @@
         {
           "round": 9,
           "id": "A13",
-          "name": "Ayod Ruparatne",
+          "name": "Ayod Ruparatne (A13)",
           "result": "L",
           "score": 374,
           "oppScore": 443,
@@ -6518,6 +7194,19 @@
           "spread": -253,
           "standingsSpread": -253,
           "opponentName": "Kavinu Ranathunga"
+        },
+        {
+          "round": 10,
+          "id": "A13",
+          "name": "Ayod Ruparatne",
+          "result": "L",
+          "score": 308,
+          "oppScore": 444,
+          "opponentId": "A8",
+          "gameSpread": -136,
+          "spread": -389,
+          "standingsSpread": -389,
+          "opponentName": "Allage Sayun Senuka Dasanayake"
         }
       ]
     },
@@ -6632,7 +7321,7 @@
         {
           "round": 9,
           "id": "A22",
-          "name": "Chanudi U.W. Abeynayake",
+          "name": "Chanudi U.W. Abeynayake (A22)",
           "result": "W",
           "score": 404,
           "oppScore": 382,
@@ -6641,6 +7330,19 @@
           "spread": -568,
           "standingsSpread": -568,
           "opponentName": "Tusanda Gagana"
+        },
+        {
+          "round": 10,
+          "id": "A22",
+          "name": "Chanudi U.W. Abeynayake",
+          "result": "L",
+          "score": 303,
+          "oppScore": 410,
+          "opponentId": "A34",
+          "gameSpread": -107,
+          "spread": -675,
+          "standingsSpread": -675,
+          "opponentName": "Oshadha Mithradeva"
         }
       ]
     },
@@ -6755,7 +7457,7 @@
         {
           "round": 9,
           "id": "A20",
-          "name": "Fathima Surayya Shammas",
+          "name": "Fathima Surayya Shammas (A20)",
           "result": "L",
           "score": 279,
           "oppScore": 403,
@@ -6764,6 +7466,19 @@
           "spread": -620,
           "standingsSpread": -620,
           "opponentName": "Vinadee Aseka De Silva"
+        },
+        {
+          "round": 10,
+          "id": "A20",
+          "name": "Fathima Surayya Shammas",
+          "result": "L",
+          "score": 405,
+          "oppScore": 417,
+          "opponentId": "A48",
+          "gameSpread": -12,
+          "spread": -632,
+          "standingsSpread": -632,
+          "opponentName": "Sanuki Kariyawasam"
         }
       ]
     },
@@ -6878,7 +7593,7 @@
         {
           "round": 9,
           "id": "A44",
-          "name": "Thedara Thevinuli",
+          "name": "Thedara Thevinuli (A44)",
           "result": "W",
           "score": 595,
           "oppScore": 196,
@@ -6887,6 +7602,19 @@
           "spread": -391,
           "standingsSpread": -391,
           "opponentName": "Sanuki Kariyawasam"
+        },
+        {
+          "round": 10,
+          "id": "A44",
+          "name": "Thedara Thevinuli",
+          "result": "W",
+          "score": 436,
+          "oppScore": 297,
+          "opponentId": "A35",
+          "gameSpread": 139,
+          "spread": -252,
+          "standingsSpread": -252,
+          "opponentName": "Sayum Nenuka"
         }
       ]
     }
